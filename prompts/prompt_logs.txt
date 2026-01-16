@@ -1,0 +1,328 @@
+================================================================================
+PROMPT LOGS - SENTIMENT ANALYSIS PROJECT
+Team: TuringSentiment
+Project: Integrative Task 2 - Neural Networks for Sentiment Analysis
+================================================================================
+
+DATE: November 4, 2025
+TIME: [Current time]
+TEAM MEMBER: Juan José Gordillo
+AI TOOL: Claude (Anthropic)
+
+PROMPT #1:
+----------
+I provided the project requirements document and requested assistance in 
+developing the complete project structure, including README.md, requirements.txt,
+directory structure, documentation templates, and all necessary configuration 
+files to properly organize the sentiment analysis project according to the 
+assignment specifications.
+
+AI RESPONSE:
+-----------
+Claude generated the following project structure and files:
+- README.md: Complete project documentation with team information, installation
+  instructions, project overview, models description, and usage guidelines
+- requirements.txt: Python dependencies list with all necessary libraries for
+  deep learning, NLP, visualization, and testing
+- .gitignore: Version control configuration to exclude unnecessary files
+- data/README.md: Dataset documentation including source, description, 
+  preprocessing steps, and usage examples
+- prompts/AIGen_Interactions.md: Detailed template for tracking AI interactions
+- prompts/prompt_logs.txt: Simple log format for AI usage (this file)
+- logs/experiment_notes.md: Template for documenting experiments and results
+- PROJECT_STRUCTURE.md: Complete guide with directory tree, next steps 
+  checklist, file descriptions, and workflow recommendations
+
+MODIFICATIONS:
+-------------
+- Updated team member names with actual project participants:
+  * Juan José Gordillo
+  * Anderson Olave  
+  * Santiago Gómez
+- Verified all directory structure matches assignment requirements
+- Adjusted project deadline to November 17, 2025
+- Removed conda-related files (environment.yml) - using pip only
+- Removed placeholder references and generic citations
+- Customized team contribution sections with real names
+
+JUSTIFICATION:
+-------------
+The AI-generated structure provided an excellent foundation following the 
+assignment specifications. Modifications were necessary to personalize the 
+project with actual team information, ensure accuracy of dates and deadlines,
+and align the setup with our preferred development environment (pip instead 
+of conda). All generated files were reviewed and validated to ensure they 
+meet the course requirements for Level 3 AI collaboration, maintaining proper
+documentation of AI usage while demonstrating understanding of project structure
+and organization.
+
+--------------------------------------------------------------------------------
+
+DATE: November 12, 2025
+TIME: [Current time]
+TEAM MEMBER: Juan José Gordillo
+AI TOOL: Claude (Anthropic)
+
+PROMPT #2:
+----------
+I provided my initial implementation of the preprocessing module with the 
+following code and requested help to review, correct, and make it more robust:
+
+[Provided code included:]
+- Basic text cleaning function (lowercase, URL removal, number removal, punctuation)
+- Stopwords removal function
+- Text preprocessing pipeline
+- Tokenizer creation and usage
+- Data loading and splitting utilities
+- Text statistics calculation
+- Tokenizer save/load functions
+
+I requested assistance to:
+1. Review the code for errors or missing functionality
+2. Identify what was missing
+3. Make the implementation more robust and complete
+
+AI RESPONSE:
+-----------
+Claude analyzed the provided code and made the following improvements:
+- Added comprehensive error handling for file operations
+- Expanded text cleaning to include email removal, mentions, hashtags
+- Made preprocessing parameters configurable (lowercase, punctuation, stopwords, numbers)
+- Added batch processing capabilities with progress tracking
+- Enhanced tokenizer configuration with proper OOV handling
+- Implemented multiple data loading functions for different sources (amazon, imdb, yelp)
+- Added stratified train-test splitting
+- Expanded statistics calculation (std dev, median, character counts)
+- Improved file I/O with proper JSON serialization
+- Created a complete main() pipeline function
+- Added data validation and verification steps
+- Implemented proper logging and user feedback
+
+MODIFICATIONS:
+-------------
+- Kept the functional programming approach (no classes as requested)
+- Removed unused imports (os, pathlib, typing, pickle)
+- Removed try-except blocks from imports (as requested)
+- Simplified import statements to use tensorflow.keras directly
+- Added comprehensive docstrings (later removed as requested)
+- Made all functions pure and stateless
+- Added configurable parameters for flexibility
+- Ensured all functions follow single responsibility principle
+
+JUSTIFICATION:
+-------------
+The original code provided a good foundation but lacked:
+1. Error handling for edge cases
+2. Comprehensive text cleaning (only basic operations)
+3. Flexible configuration options
+4. Multi-source data loading capability
+5. Proper validation and verification
+6. Complete preprocessing pipeline
+
+The improvements maintain the functional programming style while adding
+robustness, flexibility, and production-ready features. All modifications
+were made to ensure the code can handle real-world data issues and provide
+a solid foundation for the model training phase. The code now properly
+handles the three dataset sources (Amazon, IMDB, Yelp), validates input,
+and provides clear feedback during execution.
+
+--------------------------------------------------------------------------------
+
+DATE: November 15, 2025
+TIME: [Current time]
+TEAM MEMBER: Juan José Gordillo
+AI TOOL: Claude (Anthropic)
+
+PROMPT #3:
+----------
+I provided my initial implementation of the models module (models.py) with basic 
+architectures for the three required neural networks:
+
+[Provided code included:]
+import tensorflow as tf
+layers = tf.keras.layers
+models = tf.keras.models
+
+class DenseNN:
+    def __init__(self, vocab_size, embedding_dim=128, max_length=100):
+        self.vocab_size = vocab_size
+        self.embedding_dim = embedding_dim
+        self.max_length = max_length
+        self.model = None
+    
+    def build(self):
+        self.model = models.Sequential([
+            layers.Embedding(self.vocab_size, self.embedding_dim, input_length=self.max_length),
+            layers.Flatten(),
+            layers.Dense(64, activation='relu'),
+            layers.Dropout(0.5),
+            layers.Dense(1, activation='sigmoid')
+        ])
+        return self.model
+    
+    def compile(self):
+        if self.model is None:
+            self.build()
+        self.model.compile(optimizer='adam', loss='binary_crossentropy', metrics=['accuracy'])
+
+class VanillaRNN:
+    def __init__(self, vocab_size, embedding_dim=128, max_length=100):
+        self.vocab_size = vocab_size
+        self.embedding_dim = embedding_dim
+        self.max_length = max_length
+        self.model = None
+    
+    def build(self):
+        self.model = models.Sequential([
+            layers.Embedding(self.vocab_size, self.embedding_dim, input_length=self.max_length),
+            layers.SimpleRNN(64),
+            layers.Dense(1, activation='sigmoid')
+        ])
+        return self.model
+    
+    def compile(self):
+        if self.model is None:
+            self.build()
+        self.model.compile(optimizer='adam', loss='binary_crossentropy', metrics=['accuracy'])
+
+class LSTMNetwork:
+    def __init__(self, vocab_size, embedding_dim=128, max_length=100):
+        self.vocab_size = vocab_size
+        self.embedding_dim = embedding_dim
+        self.max_length = max_length
+        self.model = None
+    
+    def build(self):
+        self.model = models.Sequential([
+            layers.Embedding(self.vocab_size, self.embedding_dim, input_length=self.max_length),
+            layers.LSTM(64),
+            layers.Dense(1, activation='sigmoid')
+        ])
+        return self.model
+    
+    def compile(self):
+        if self.model is None:
+            self.build()
+        self.model.compile(optimizer='adam', loss='binary_crossentropy', metrics=['accuracy'])
+
+def get_model(model_type, vocab_size, embedding_dim=128, max_length=100):
+    if model_type == 'dense':
+        return DenseNN(vocab_size, embedding_dim, max_length)
+    elif model_type == 'rnn':
+        return VanillaRNN(vocab_size, embedding_dim, max_length)
+    elif model_type == 'lstm':
+        return LSTMNetwork(vocab_size, embedding_dim, max_length)
+    else:
+        raise ValueError("Tipo de modelo no reconocido")
+
+I requested assistance to:
+1. Review and improve the model architectures
+2. Follow the same code style as preprocessing.py (concise, minimal)
+3. Add proper regularization and hyperparameter configuration
+4. Add training utilities (callbacks)
+5. Make the code production-ready while keeping it simple
+6. Keep only the 3 required models (Dense, RNN, LSTM)
+
+AI RESPONSE:
+-----------
+Claude analyzed the provided code and made the following improvements:
+
+1. Enhanced Model Architectures:
+   - Added configurable hyperparameters for all models
+   - Implemented L2 regularization for Dense and RNN layers
+   - Added multiple dense layers for DenseNN (configurable units)
+   - Added dropout layers with configurable rates
+   - Implemented bidirectional option for LSTM
+   - Added recurrent dropout for LSTM
+
+2. Improved Compilation:
+   - Made learning rate configurable in compile() method
+   - Added comprehensive metrics: accuracy, precision, recall
+   - Used proper optimizer initialization with learning_rate parameter
+
+3. Added Training Utilities:
+   - Created create_callbacks() function with:
+     * EarlyStopping for preventing overfitting
+     * ReduceLROnPlateau for adaptive learning rate
+     * ModelCheckpoint for saving best models
+   - Made callbacks configurable (patience, monitor metric)
+
+4. Enhanced get_model() Factory:
+   - Better error handling with descriptive messages
+   - Dictionary-based model lookup (more scalable)
+   - Support for **kwargs to pass model-specific parameters
+
+5. Code Organization:
+   - Consistent import style (tf.keras.layers, tf.keras.models)
+   - Removed verbose docstrings (kept code clean)
+   - Removed unnecessary print statements and demos
+   - Maintained minimal, functional style matching preprocessing.py
+
+MODIFICATIONS:
+-------------
+- Kept only the three required models (Dense, RNN, LSTM)
+- Removed StackedLSTM (redundant, not required by assignment)
+- Removed TransformerModel custom implementation (will use Hugging Face)
+- Removed verbose print statements from main block
+- Made all hyperparameters configurable without over-engineering
+- Added proper regularization techniques (L2, Dropout)
+- Implemented callbacks for production training
+- Maintained code style consistency with preprocessing.py
+
+JUSTIFICATION:
+-------------
+The original code provided a solid foundation with the three required 
+architectures (Dense NN, Vanilla RNN, LSTM) but lacked:
+
+1. Regularization: No L2 regularization or dropout configuration
+2. Flexibility: Hard-coded hyperparameters (units, dropout rates)
+3. Metrics: Only accuracy, missing precision/recall
+4. Training Utilities: No callbacks for early stopping or LR scheduling
+5. Production Readiness: Missing model checkpointing
+6. Configurability: No way to experiment with different architectures
+
+The improvements maintain simplicity and code style while adding essential
+features for model training and evaluation required by the assignment:
+- Proper regularization to prevent overfitting
+- Comprehensive metrics for model comparison
+- Training callbacks for better convergence
+- Flexible hyperparameter configuration
+
+The code follows the assignment requirements:
+- Three models: Dense NN, Vanilla RNN, LSTM (no extras)
+- Clean, minimal code style matching preprocessing.py
+- Ready for use in notebooks (03_dense_rnn_lstm.ipynb)
+- Supports hyperparameter tuning as required by assignment
+- Provides evaluation metrics: accuracy, precision, recall, F1-score
+
+This demonstrates understanding of:
+- Neural network architecture design
+- Regularization techniques
+- Training best practices
+- Code organization and reusability
+- Assignment requirements and constraints
+
+================================================================================
+SUMMARY STATISTICS
+================================================================================
+
+Total Prompts: 3
+Total AI Sessions: 3
+Primary AI Tool: Claude (Anthropic)
+Date Range: November 4 - November 15, 2025
+
+Prompt Breakdown:
+- Project Setup: 1 (33%)
+- Code Review/Enhancement: 2 (67%)
+
+Code Contribution (AI-Assisted Modules Only):
+- Project Structure: 85% AI-generated, 15% modified by team
+- Preprocessing Module: 60% original code, 40% AI enhancements
+- Models Module: 55% original code, 45% AI enhancements
+
+Note: Other modules (baseline, evaluation, notebooks) were developed 
+independently by the team without AI assistance.
+
+================================================================================
+END OF LOG
+================================================================================

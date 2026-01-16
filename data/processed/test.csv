@@ -1,0 +1,601 @@
+sentence,label,source,length,clean_sentence,clean_length,preprocessed
+Reversible plug works great.,1,amazon,4,reversible plug works great,4,reversible plug works great
+"Overall, I like this place a lot.",1,yelp,7,overall like place lot,4,overall like place lot
+I am not impressed with this and i would not recommend this item to anyone.,0,amazon,15,impressed would recommend item anyone,5,impressed would recommend item anyone
+Talk about great customer service of course we will be back.,1,yelp,11,talk great customer service course back,6,talk great customer service course back
+Please stay away from the shrimp stir fried noodles.,0,yelp,9,please stay away shrimp stir fried noodles,7,please stay away shrimp stir fried noodles
+She carries the movie well.  ,1,imdb,5,carries movie well,3,carries movie well
+The waitress and manager are so friendly.,1,yelp,7,waitress manager friendly,3,waitress manager friendly
+"you can even take self portraits with the outside (exterior) display, very cool.",1,amazon,13,even take self portraits outside exterior display cool,8,even take self portraits outside exterior display cool
+As a sushi lover avoid this place by all means.,0,yelp,10,sushi lover avoid place means,5,sushi lover avoid place means
+We are so glad we found this place.,1,yelp,8,glad found place,3,glad found place
+We will not be coming back.,0,yelp,6,coming back,2,coming back
+I love that they put their food in nice plastic containers as opposed to cramming it in little paper takeout boxes.,1,yelp,21,love put food nice plastic containers opposed cramming little paper takeout boxes,12,love put food nice plastic containers opposed cramming little paper takeout boxes
+"The burger... I got the ""Gold Standard"" a $17 burger and was kind of disappointed.",0,yelp,15,burger got gold standard 17 burger kind disappointed,8,burger got gold standard 17 burger kind disappointed
+"I had ordered a motorola data cable, got a very well finished and working product.",1,amazon,15,ordered motorola data cable got well finished working product,9,ordered motorola data cable got well finished working product
+Both of the egg rolls were fantastic.,1,yelp,7,egg rolls fantastic,3,egg rolls fantastic
+Four stars for the food & the guy in the blue shirt for his great vibe & still letting us in to eat !,1,yelp,24,four stars food guy blue shirt great vibe still letting us eat,12,four stars food guy blue shirt great vibe still letting us eat
+A FLY was in my apple juice.. A FLY!!!!!!!!,0,yelp,9,fly apple juice fly,4,fly apple juice fly
+"Perfect for someone (me) who only likes beer ice cold, or in this case, even colder.",1,yelp,16,perfect someone likes beer ice cold case even colder,9,perfect someone likes beer ice cold case even colder
+Someone shouldve invented this sooner.,1,amazon,5,someone shouldve invented sooner,4,someone shouldve invented sooner
+Pretty good beer selection too.,1,yelp,5,pretty good beer selection,4,pretty good beer selection
+The script iswas there a script?  ,0,imdb,7,script script,2,script script
+And the chef was generous with his time (even came around twice so we can take pictures with him).,1,yelp,19,chef generous time even came around twice take pictures,9,chef generous time even came around twice take pictures
+"Works great, when my cat attacked the phone he scratched the protective strip instead of destroying the screen.",1,amazon,18,works great cat attacked phone scratched protective strip instead destroying screen,11,works great cat attacked phone scratched protective strip instead destroying screen
+The original Body and Soul (1947) is a masterpiece.  ,1,imdb,9,original body soul 1947 masterpiece,5,original body soul 1947 masterpiece
+I ordered this product first and was unhappy with it immediately.,0,amazon,11,ordered product first unhappy immediately,5,ordered product first unhappy immediately
+Lasted one day and then blew up.,0,amazon,7,lasted one day blew,4,lasted one day blew
+"The mic there is a joke, and the volume is quite low.",0,amazon,12,mic joke volume quite low,5,mic joke volume quite low
+This movie is great--especially if you enjoy visual arts.  ,1,imdb,9,movie greatespecially enjoy visual arts,5,movie greatespecially enjoy visual arts
+I would recommend it.,1,amazon,4,would recommend,2,would recommend
+Gave up trying to eat any of the crust (teeth still sore).,0,yelp,12,gave trying eat crust teeth still sore,7,gave trying eat crust teeth still sore
+You cant go wrong with any of the food here.,1,yelp,10,cant go wrong food,4,cant go wrong food
+"The food was barely lukewarm, so it must have been sitting waiting for the server to bring it out to us.",0,yelp,21,food barely lukewarm must sitting waiting server bring us,9,food barely lukewarm must sitting waiting server bring us
+This short film certainly pulls no punches.  ,0,imdb,7,short film certainly pulls punches,5,short film certainly pulls punches
+"Technically, the film is well made with impressive camera-work, solid acting and effective music from Riz Ortolani  particularly good is a recurring unaccompanied female vocal that sounds like it's coming from a distant hill.  ",1,imdb,35,technically film well made impressive camerawork solid acting effective music riz ortolani  particularly good recurring unaccompanied female vocal sounds like coming distant hill,24,technically film well made impressive camerawork solid acting effective music riz ortolani  particularly good recurring unaccompanied female vocal sounds like coming distant hill
+The Buffet at Bellagio was far from what I anticipated.,0,yelp,10,buffet bellagio far anticipated,4,buffet bellagio far anticipated
+It is an insane game.  ,1,imdb,5,insane game,2,insane game
+A very charming film with wonderful sentiment and heart.  ,1,imdb,9,charming film wonderful sentiment heart,5,charming film wonderful sentiment heart
+I came back today since they relocated and still not impressed.,0,yelp,11,came back today since relocated still impressed,7,came back today since relocated still impressed
+the spaghetti is nothing special whatsoever.,0,yelp,6,spaghetti nothing special whatsoever,4,spaghetti nothing special whatsoever
+"It holds a charge for a long time, is reasonably comfortable under long-wearing conditions and the quality of sound is tremendous.",1,amazon,21,holds charge long time reasonably comfortable longwearing conditions quality sound tremendous,11,holds charge long time reasonably comfortable longwearing conditions quality sound tremendous
+"I really hope the team behind this movie makes more movies, and that they will continue to do so in their own, some kinda weird style.  ",1,imdb,26,really hope team behind movie makes movies continue kinda weird style,11,really hope team behind movie makes movies continue kinda weird style
+I had the mac salad and it was pretty bland so I will not be getting that again.,0,yelp,18,mac salad pretty bland getting,5,mac salad pretty bland getting
+"It plays louder than any other speaker of this size; the price is so low that most would think the quality is lacking, however, it's not.",1,amazon,26,plays louder speaker size price low would think quality lacking however,11,plays louder speaker size price low would think quality lacking however
+Works great.,1,amazon,2,works great,2,works great
+The classic Maine Lobster Roll was fantastic.,1,yelp,7,classic maine lobster roll fantastic,5,classic maine lobster roll fantastic
+"It's quite simply the highest, most superlative form of cinema imaginable.  ",1,imdb,11,quite simply highest superlative form cinema imaginable,7,quite simply highest superlative form cinema imaginable
+The battery life is highly unacceptable.,0,amazon,6,battery life highly unacceptable,4,battery life highly unacceptable
+"every thing on phone work perfectly, she like it.",1,amazon,9,every thing phone work perfectly like,6,every thing phone work perfectly like
+Brilliance indeed.  ,1,imdb,2,brilliance indeed,2,brilliance indeed
+"Every time he opened his mouth you expect to hear, ""you see kids..."" Pulling the plug was a mercy killing for this horrible show.  ",0,imdb,24,every time opened mouth expect hear see kids pulling plug mercy killing horrible show,14,every time opened mouth expect hear see kids pulling plug mercy killing horrible show
+I can say that the desserts were yummy.,1,yelp,8,say desserts yummy,3,say desserts yummy
+The camera really likes her in this movie.  ,1,imdb,8,camera really likes movie,4,camera really likes movie
+"seems like a good quick place to grab a bite of some familiar pub food, but do yourself a favor and look elsewhere.",0,yelp,23,seems like good quick place grab bite familiar pub food favor look elsewhere,13,seems like good quick place grab bite familiar pub food favor look elsewhere
+Don't do it!!!!,0,yelp,3,dont,1,dont
+"The worst, sappiest dialogue... I could go on and on.  ",0,imdb,10,worst sappiest dialogue could go,5,worst sappiest dialogue could go
+The food was outstanding and the prices were very reasonable.,1,yelp,10,food outstanding prices reasonable,4,food outstanding prices reasonable
+Their regular toasted bread was equally satisfying with the occasional pats of butter... Mmmm...!,1,yelp,14,regular toasted bread equally satisfying occasional pats butter mmmm,9,regular toasted bread equally satisfying occasional pats butter mmmm
+"Macbeth (Jason Connery) moved me to tears with his final monolog (out brief candle, out)He gave the sphere of moral decay and dark forces a human face, which makes it the more interesting.  ",1,imdb,33,macbeth jason connery moved tears final monolog brief candle outhe gave sphere moral decay dark forces human face makes interesting,20,macbeth jason connery moved tears final monolog brief candle outhe gave sphere moral decay dark forces human face makes interesting
+"The film's dialogue is natural, real to life.  ",1,imdb,8,films dialogue natural real life,5,films dialogue natural real life
+"Anyway, this FS restaurant has a wonderful breakfast/lunch.",1,yelp,8,anyway fs restaurant wonderful breakfastlunch,5,anyway fs restaurant wonderful breakfastlunch
+"All things considered, a job very well done.  ",1,imdb,8,things considered job well done,5,things considered job well done
+I'm pleased.,1,amazon,2,im pleased,2,im pleased
+Great food and awesome service!,1,yelp,5,great food awesome service,4,great food awesome service
+"For that, it's worth checking out.  ",1,imdb,6,worth checking,2,worth checking
+"A week later after I activated it, it suddenly died.",0,amazon,10,week later activated suddenly died,5,week later activated suddenly died
+Hard to judge whether these sides were good because we were grossed out by the melted styrofoam and didn't want to eat it for fear of getting sick.,0,yelp,28,hard judge whether sides good grossed melted styrofoam didnt want eat fear getting sick,14,hard judge whether sides good grossed melted styrofoam didnt want eat fear getting sick
+"I don't each much pasta, but I love the homemade /hand made pastas and thin pizzas here.",1,yelp,17,dont much pasta love homemade hand made pastas thin pizzas,10,dont much pasta love homemade hand made pastas thin pizzas
+"Anyway, I do not think i will go back there.",0,yelp,10,anyway think go back,4,anyway think go back
+It has all the features I want,1,amazon,7,features want,2,features want
+Her role was played well.  ,1,imdb,5,role played well,3,role played well
+Cinematography: The film was shot in an interesting way.  ,1,imdb,9,cinematography film shot interesting way,5,cinematography film shot interesting way
+I was very disappointed in the movie.  ,0,imdb,7,disappointed movie,2,disappointed movie
+I came out of it feeling angry.  ,0,imdb,7,came feeling angry,3,came feeling angry
+Ray Charles is legendary.  ,1,imdb,4,ray charles legendary,3,ray charles legendary
+It also took her forever to bring us the check when we asked for it.,0,yelp,15,also took forever bring us check asked,7,also took forever bring us check asked
+Thoroughly disappointed!,0,yelp,2,thoroughly disappointed,2,thoroughly disappointed
+"Oh yeah, and the storyline was pathetic too.  ",0,imdb,8,oh yeah storyline pathetic,4,oh yeah storyline pathetic
+"Buy it, play it, enjoy it, love it.  ",1,imdb,8,buy play enjoy love,4,buy play enjoy love
+"Classy/warm atmosphere, fun and fresh appetizers, succulent steaks (Baseball steak!!!!!",1,yelp,10,classywarm atmosphere fun fresh appetizers succulent steaks baseball steak,9,classywarm atmosphere fun fresh appetizers succulent steaks baseball steak
+Never had anything to complain about here.,1,yelp,7,never anything complain,3,never anything complain
+I will not be eating there again.,0,yelp,7,eating,1,eating
+The steak was amazing...rge fillet relleno was the best seafood plate i have ever had!,1,yelp,15,steak amazingrge fillet relleno best seafood plate ever,8,steak amazingrge fillet relleno best seafood plate ever
+im surprised this is a good quality car charger and there's not much reviews about it.,1,amazon,16,im surprised good quality car charger theres much reviews,9,im surprised good quality car charger theres much reviews
+These were so good we ordered them twice.,1,yelp,8,good ordered twice,3,good ordered twice
+Not recommended.  ,0,imdb,2,recommended,1,recommended
+This is a great restaurant at the Mandalay Bay.,1,yelp,9,great restaurant mandalay bay,4,great restaurant mandalay bay
+"Attempting artiness with black & white and clever camera angles, the movie disappointed - became even more ridiculous - as the acting was poor and the plot and lines almost non-existent.  ",0,imdb,31,attempting artiness black white clever camera angles movie disappointed became even ridiculous acting poor plot lines almost nonexistent,18,attempting artiness black white clever camera angles movie disappointed became even ridiculous acting poor plot lines almost nonexistent
+Eclectic selection.,1,yelp,2,eclectic selection,2,eclectic selection
+Couldn't ask for a more satisfying meal.,1,yelp,7,couldnt ask satisfying meal,4,couldnt ask satisfying meal
+I felt as though her going to Ireland did absolutely nothing whatsoever.  ,0,imdb,12,felt though going ireland absolutely nothing whatsoever,7,felt though going ireland absolutely nothing whatsoever
+The only thing I wasn't too crazy about was their guacamole as I don't like it puréed.,0,yelp,17,thing wasnt crazy guacamole dont like puréed,7,thing wasnt crazy guacamole dont like puréed
+Excellent hands free tool.,1,amazon,4,excellent hands free tool,4,excellent hands free tool
+"Level 5 spicy was perfect, where spice didn't over-whelm the soup.",1,yelp,11,level 5 spicy perfect spice didnt overwhelm soup,8,level 5 spicy perfect spice didnt overwhelm soup
+"All in all, Ha Long Bay was a bit of a flop.",0,yelp,12,ha long bay bit flop,5,ha long bay bit flop
+"I don't know what happened in Season Five, what a mess.  ",0,imdb,11,dont know happened season five mess,6,dont know happened season five mess
+I wish I could return the unit and get back my money.,0,amazon,12,wish could return unit get back money,7,wish could return unit get back money
+I highly recommend these and encourage people to give them a try.,1,amazon,12,highly recommend encourage people give try,6,highly recommend encourage people give try
+the charger worked for about a week and then completely stopped charging my phone.,0,amazon,14,charger worked week completely stopped charging phone,7,charger worked week completely stopped charging phone
+By far the BEST cheesecurds we have ever had!,1,yelp,9,far best cheesecurds ever,4,far best cheesecurds ever
+"Using all earpieces, left or right, this thing will not stay on my ear.",0,amazon,14,using earpieces left right thing stay ear,7,using earpieces left right thing stay ear
+There were several moments in the movie that just didn't need to be there and were excruciatingly slow moving.  ,0,imdb,19,several moments movie didnt need excruciatingly slow moving,8,several moments movie didnt need excruciatingly slow moving
+"Our server was fantastic and when he found out the wife loves roasted garlic and bone marrow, he added extra to our meal and another marrow to go!",1,yelp,28,server fantastic found wife loves roasted garlic bone marrow added extra meal another marrow go,15,server fantastic found wife loves roasted garlic bone marrow added extra meal another marrow go
+"The menu is always changing, food quality is going down & service is extremely slow.",0,yelp,15,menu always changing food quality going service extremely slow,9,menu always changing food quality going service extremely slow
+This is the place where I first had pho and it was amazing!!,1,yelp,13,place first pho amazing,4,place first pho amazing
+the movie is littered with overt racial slurs towards the black cast members and in return the whites are depicted as morons and boobs.  ,0,imdb,24,movie littered overt racial slurs towards black cast members return whites depicted morons boobs,14,movie littered overt racial slurs towards black cast members return whites depicted morons boobs
+For that price I can think of a few place I would have much rather gone.,0,yelp,16,price think place would much rather gone,7,price think place would much rather gone
+It is indescribably the most annoying and idiotic show I have ever seen.  ,0,imdb,13,indescribably annoying idiotic show ever seen,6,indescribably annoying idiotic show ever seen
+The block was amazing.,1,yelp,4,block amazing,2,block amazing
+Both great!,1,yelp,2,great,1,great
+Not impressed.,0,amazon,2,impressed,1,impressed
+About ten minutes into this film I started having second thoughts.  ,0,imdb,11,ten minutes film started second thoughts,6,ten minutes film started second thoughts
+"Prices are very reasonable, flavors are spot on, the sauce is home made, and the slaw is not drenched in mayo.",1,yelp,21,prices reasonable flavors spot sauce home made slaw drenched mayo,10,prices reasonable flavors spot sauce home made slaw drenched mayo
+"God, and I can never get that 90 minutes back!  ",0,imdb,10,god never get 90 minutes back,6,god never get 90 minutes back
+It was way over fried.,0,yelp,5,way fried,2,way fried
+Hitchcock is a great director.  ,1,imdb,5,hitchcock great director,3,hitchcock great director
+Over rated.,0,yelp,2,rated,1,rated
+"As for the service: I'm a fan, because it's quick and you're being served by some nice folks.",1,yelp,18,service im fan quick youre served nice folks,8,service im fan quick youre served nice folks
+"Insults, profound deuchebaggery, and had to go outside for a smoke break while serving just to solidify it.",0,yelp,18,insults profound deuchebaggery go outside smoke break serving solidify,9,insults profound deuchebaggery go outside smoke break serving solidify
+The restaurant atmosphere was exquisite.,1,yelp,5,restaurant atmosphere exquisite,3,restaurant atmosphere exquisite
+Also makes it easier to hold on to.,1,amazon,8,also makes easier hold,4,also makes easier hold
+"OMG, the food was delicioso!",1,yelp,5,omg food delicioso,3,omg food delicioso
+"I have 2-3 bars on my cell phone when I am home, but you cant not hear anything.",0,amazon,18,23 bars cell phone home cant hear anything,8,23 bars cell phone home cant hear anything
+Love This Phone.,1,amazon,3,love phone,2,love phone
+Avoid at any and all costs.  ,0,imdb,6,avoid costs,2,avoid costs
+"Avoid, avoid, avoid!  ",0,imdb,3,avoid avoid avoid,3,avoid avoid avoid
+Excellent product for the price.,1,amazon,5,excellent product price,3,excellent product price
+"Unless you're just out to visually ""collect"" all extant films of Austen's work, you can skip this one.  ",0,imdb,18,unless youre visually collect extant films austens work skip one,10,unless youre visually collect extant films austens work skip one
+It is practically useless and did not add any kind of boost to my reception after I bought it.,0,amazon,19,practically useless add kind boost reception bought,7,practically useless add kind boost reception bought
+"This place is pretty good, nice little vibe in the restaurant.",1,yelp,11,place pretty good nice little vibe restaurant,7,place pretty good nice little vibe restaurant
+I dont think I will be back for a very long time.,0,yelp,12,dont think back long time,5,dont think back long time
+At least think to refill my water before I struggle to wave you over for 10 minutes.,0,yelp,17,least think refill water struggle wave 10 minutes,8,least think refill water struggle wave 10 minutes
+"On the ground, right next to our table was a large, smeared, been-stepped-in-and-tracked-everywhere pile of green bird poop.",0,yelp,18,ground right next table large smeared beensteppedinandtrackedeverywhere pile green bird poop,11,ground right next table large smeared beensteppedinandtrackedeverywhere pile green bird poop
+I'd advise anyone to go and see it.  ,1,imdb,8,id advise anyone go see,5,id advise anyone go see
+"Regrettably, the film fails.  ",0,imdb,4,regrettably film fails,3,regrettably film fails
+EXCELLENT SERVICE!!!!!!!!.,1,amazon,2,excellent service,2,excellent service
+"The food, amazing.",1,yelp,3,food amazing,2,food amazing
+Very good quality though,1,amazon,4,good quality though,3,good quality though
+Their frozen margaritas are WAY too sugary for my taste.,0,yelp,10,frozen margaritas way sugary taste,5,frozen margaritas way sugary taste
+"Simple, lightweight and great fit.",1,amazon,5,simple lightweight great fit,4,simple lightweight great fit
+The chefs were friendly and did a good job.,1,yelp,9,chefs friendly good job,4,chefs friendly good job
+I just wanted to leave.,0,yelp,5,wanted leave,2,wanted leave
+AN HOUR... seriously?,0,yelp,3,hour seriously,2,hour seriously
+Today the graphics are crap.  ,0,imdb,5,today graphics crap,3,today graphics crap
+The directing and the cinematography aren't quite as good.  ,0,imdb,9,directing cinematography arent quite good,5,directing cinematography arent quite good
+"Just consider the excellent story, solid acting and look of the film as added bonuses.  ",1,imdb,15,consider excellent story solid acting look film added bonuses,9,consider excellent story solid acting look film added bonuses
+"Nice quality build, unlike some cheap s*** out there.",1,amazon,9,nice quality build unlike cheap,5,nice quality build unlike cheap
+"Okay, I like to consider myself a fair critic, so I'll give credit where credit's due--the creature effects were actually pretty cool.  ",1,imdb,22,okay like consider fair critic ill give credit credits duethe creature effects actually pretty cool,15,okay like consider fair critic ill give credit credits duethe creature effects actually pretty cool
+It has kept up very well.,1,amazon,6,kept well,2,kept well
+I'd love to go back.,1,yelp,5,id love go back,4,id love go back
+"It didn't work, people can not hear me when I talk.",0,amazon,11,didnt work people hear talk,5,didnt work people hear talk
+I'm not sure what he was trying to do with this film.  ,0,imdb,12,im sure trying film,4,im sure trying film
+"However Paul Schrader has indeed made a film ""about"" Mishima that is both superb & complex.  ",1,imdb,16,however paul schrader indeed made film mishima superb complex,9,however paul schrader indeed made film mishima superb complex
+"If there is a wind, it is completely useless.",0,amazon,9,wind completely useless,3,wind completely useless
+So Far So Good!.,1,amazon,4,far good,2,far good
+"Every element of this story was so over the top, excessively phony and contrived that it was painful to sit through.  ",0,imdb,21,every element story top excessively phony contrived painful sit,9,every element story top excessively phony contrived painful sit
+The file browser offers all the options that one needs.Handsfree is great.,1,amazon,12,file browser offers options one needshandsfree great,7,file browser offers options one needshandsfree great
+I love being able to use one headset for both by land-line and cell.,1,amazon,14,love able use one headset landline cell,7,love able use one headset landline cell
+"This film highlights the fundamental flaws of the legal process, that it's not about discovering guilt or innocence, but rather, is about who presents better in court.  ",1,imdb,27,film highlights fundamental flaws legal process discovering guilt innocence rather presents better court,13,film highlights fundamental flaws legal process discovering guilt innocence rather presents better court
+Unfortunately it's easy to accidentally activate them with the gentle-touch buttons if you accidentally touch the phone to your face while listening.,0,amazon,22,unfortunately easy accidentally activate gentletouch buttons accidentally touch phone face listening,11,unfortunately easy accidentally activate gentletouch buttons accidentally touch phone face listening
+NOT WHAT I WANTED.,0,amazon,4,wanted,1,wanted
+This is probably one of the least effective and utterly unoriginal films I have ever seen in my entire life.  ,0,imdb,20,probably one least effective utterly unoriginal films ever seen entire life,11,probably one least effective utterly unoriginal films ever seen entire life
+It doesn't work in Europe or Asia.,0,amazon,7,doesnt work europe asia,4,doesnt work europe asia
+That's how I'd describe this painfully dreary time-waster of a film.  ,0,imdb,11,thats id describe painfully dreary timewaster film,7,thats id describe painfully dreary timewaster film
+"Their on-screen chemistry, critical to the entire film, is genuine.  ",1,imdb,10,onscreen chemistry critical entire film genuine,6,onscreen chemistry critical entire film genuine
+"Loved it...friendly servers, great food, wonderful and imaginative menu.",1,yelp,9,loved itfriendly servers great food wonderful imaginative menu,8,loved itfriendly servers great food wonderful imaginative menu
+Meredith M was better than all right.  ,1,imdb,7,meredith better right,3,meredith better right
+"The results, well, are a shame.  ",0,imdb,6,results well shame,3,results well shame
+I ordered the Voodoo pasta and it was the first time I'd had really excellent pasta since going gluten free several years ago.,1,yelp,23,ordered voodoo pasta first time id really excellent pasta since going gluten free several years ago,16,ordered voodoo pasta first time id really excellent pasta since going gluten free several years ago
+"Verizon's bills, however, are difficult to understand even though their pricing plans are simple.",0,amazon,14,verizons bills however difficult understand even though pricing plans simple,10,verizons bills however difficult understand even though pricing plans simple
+These are certainly very comfortable and functionality is decent.,1,amazon,9,certainly comfortable functionality decent,4,certainly comfortable functionality decent
+"This is was due to the fact that it took 20 minutes to be acknowledged, then another 35 minutes to get our food...and they kept forgetting things.",0,yelp,27,due fact took 20 minutes acknowledged another 35 minutes get foodand kept forgetting things,14,due fact took 20 minutes acknowledged another 35 minutes get foodand kept forgetting things
+"Angus Scrimm also turns in a good performance in a somewhat brief but memorable role as the gently menacing, violin-playing anatomist Doctor Quinn.  ",1,imdb,23,angus scrimm also turns good performance somewhat brief memorable role gently menacing violinplaying anatomist doctor quinn,16,angus scrimm also turns good performance somewhat brief memorable role gently menacing violinplaying anatomist doctor quinn
+The Heart Attack Grill in downtown Vegas is an absolutely flat-lined excuse for a restaurant.,0,yelp,15,heart attack grill downtown vegas absolutely flatlined excuse restaurant,9,heart attack grill downtown vegas absolutely flatlined excuse restaurant
+DELETE this film from your mind!  ,0,imdb,6,delete film mind,3,delete film mind
+Krussel Always good.,1,amazon,3,krussel always good,3,krussel always good
+Crisp and Clear.,1,amazon,3,crisp clear,2,crisp clear
+Pretty awesome place.,1,yelp,3,pretty awesome place,3,pretty awesome place
+"The building itself seems pretty neat; the bathroom is pretty trippy, but I wouldn't eat here again.",0,yelp,17,building seems pretty neat bathroom pretty trippy wouldnt eat,9,building seems pretty neat bathroom pretty trippy wouldnt eat
+It was just too horrible.  ,0,imdb,5,horrible,1,horrible
+Avoid at all costs.  ,0,imdb,4,avoid costs,2,avoid costs
+"Verizon tech support walked my through a few procedures, none of which worked and I ended up having to do a hard re-set, wiping out all my data.",0,amazon,28,verizon tech support walked procedures none worked ended hard reset wiping data,12,verizon tech support walked procedures none worked ended hard reset wiping data
+"I gave it 5 stars then, and I'm giving it 5 stars now.",1,yelp,13,gave 5 stars im giving 5 stars,7,gave 5 stars im giving 5 stars
+"If you look for authentic Thai food, go else where.",0,yelp,10,look authentic thai food go else,6,look authentic thai food go else
+"Best service and food ever, Maria our server was so good and friendly she made our day.",1,yelp,17,best service food ever maria server good friendly made day,10,best service food ever maria server good friendly made day
+I had the chicken Pho and it tasted very bland.,0,yelp,10,chicken pho tasted bland,4,chicken pho tasted bland
+"The fries were not hot, and neither was my burger.",0,yelp,10,fries hot neither burger,4,fries hot neither burger
+The fried rice was dry as well.,0,yelp,7,fried rice dry well,4,fried rice dry well
+I want to first say our server was great and we had perfect service.,1,yelp,14,want first say server great perfect service,7,want first say server great perfect service
+Food was below average.,0,yelp,4,food average,2,food average
+"These are the central themes of the film and they are handled ineptly, stereotypically and with no depth of imagination.  ",0,imdb,20,central themes film handled ineptly stereotypically depth imagination,8,central themes film handled ineptly stereotypically depth imagination
+"They have a plethora of salads and sandwiches, and everything I've tried gets my seal of approval.",1,yelp,17,plethora salads sandwiches everything ive tried gets seal approval,9,plethora salads sandwiches everything ive tried gets seal approval
+Soggy and not good.,0,yelp,4,soggy good,2,soggy good
+Display is excellent and camera is as good as any from that year.,1,amazon,13,display excellent camera good year,5,display excellent camera good year
+There still are good actors around!  ,1,imdb,6,still good actors around,4,still good actors around
+"Actually, the graphics were good at the time.  ",1,imdb,8,actually graphics good time,4,actually graphics good time
+The real disappointment was our waiter.,0,yelp,6,real disappointment waiter,3,real disappointment waiter
+I keep watching it over and over.  ,1,imdb,7,keep watching,2,keep watching
+This is a great deal.,1,amazon,5,great deal,2,great deal
+I advise EVERYONE DO NOT BE FOOLED!,0,amazon,7,advise everyone fooled,3,advise everyone fooled
+"He owns the film, just as Spacek owned ""Coal Miner's Daughter"" and Quaid owned ""Great Balls of Fire.  ",1,imdb,18,owns film spacek owned coal miners daughter quaid owned great balls fire,12,owns film spacek owned coal miners daughter quaid owned great balls fire
+"I have to use the smallest earpieces provided, but it stays on pretty well.",1,amazon,14,use smallest earpieces provided stays pretty well,7,use smallest earpieces provided stays pretty well
+Everything about this product is wrong.First,0,amazon,6,everything product wrongfirst,3,everything product wrongfirst
+"There is really nothing for me at postinos, hope your experience is better",0,yelp,13,really nothing postinos hope experience better,6,really nothing postinos hope experience better
+"Ordered a double cheeseburger & got a single patty that was falling apart (picture uploaded) Yeah, still sucks.",0,yelp,18,ordered double cheeseburger got single patty falling apart picture uploaded yeah still sucks,13,ordered double cheeseburger got single patty falling apart picture uploaded yeah still sucks
+I found the product to be easy to set up and use.,1,amazon,12,found product easy set use,5,found product easy set use
+I was particularly pleased with the acting ability of Dwight Schultz.  ,1,imdb,11,particularly pleased acting ability dwight schultz,6,particularly pleased acting ability dwight schultz
+"I know he was a contract player with little control over his scripts, but the acting was as bad as the script.  ",0,imdb,22,know contract player little control scripts acting bad script,9,know contract player little control scripts acting bad script
+There was hardly any meat.,0,yelp,5,hardly meat,2,hardly meat
+"The hockey scenes are terrible, defensemen playing like they're 5 years old, goalies diving at shots that are 10 feet wide of the net, etc.  ",0,imdb,25,hockey scenes terrible defensemen playing like theyre 5 years old goalies diving shots 10 feet wide net etc,18,hockey scenes terrible defensemen playing like theyre 5 years old goalies diving shots 10 feet wide net etc
+There is not a deal good enough that would drag me into that establishment again.,0,yelp,15,deal good enough would drag establishment,6,deal good enough would drag establishment
+I love this cable - it allows me to connect any mini-USB device to my PC.,1,amazon,16,love cable allows connect miniusb device pc,7,love cable allows connect miniusb device pc
+The show would begin with smart ass ed comments to each other that would be totally off the wall and uncalled for.  ,0,imdb,22,show would begin smart ass ed comments would totally wall uncalled,11,show would begin smart ass ed comments would totally wall uncalled
+There is nothing authentic about this place.,0,yelp,7,nothing authentic place,3,nothing authentic place
+This is probably the most irritating show I have ever seen in my entire life.  ,0,imdb,15,probably irritating show ever seen entire life,7,probably irritating show ever seen entire life
+After the disappointing dinner we went elsewhere for dessert.,0,yelp,9,disappointing dinner went elsewhere dessert,5,disappointing dinner went elsewhere dessert
+Here's where the movie really pi**ed me off.  ,0,imdb,8,heres movie really pied,4,heres movie really pied
+"Overall, I am psyched to have a phone which has all my appointments and contacts in and gets great reception.",1,amazon,20,overall psyched phone appointments contacts gets great reception,8,overall psyched phone appointments contacts gets great reception
+The potato chip order was sad... I could probably count how many chips were in that box and it was probably around 12.,0,yelp,23,potato chip order sad could probably count many chips box probably around 12,13,potato chip order sad could probably count many chips box probably around 12
+This movie is possibly one of the most creative works of horror ever.  ,1,imdb,13,movie possibly one creative works horror ever,7,movie possibly one creative works horror ever
+"A couple of months later, I returned and had an amazing meal.",1,yelp,12,couple months later returned amazing meal,6,couple months later returned amazing meal
+We were sat right on time and our server from the get go was FANTASTIC!,1,yelp,15,sat right time server get go fantastic,7,sat right time server get go fantastic
+I had to purchase a different case.,0,amazon,7,purchase different case,3,purchase different case
+Maybe if they weren't cold they would have been somewhat edible.,0,yelp,11,maybe werent cold would somewhat edible,6,maybe werent cold would somewhat edible
+I just got bored watching Jessice Lange take her clothes off!  ,0,imdb,11,got bored watching jessice lange take clothes,7,got bored watching jessice lange take clothes
+There were too many close ups.  ,0,imdb,6,many close ups,3,many close ups
+I was bored throughout the whole damn thing.  ,0,imdb,8,bored throughout whole damn thing,5,bored throughout whole damn thing
+These are fabulous!,1,amazon,3,fabulous,1,fabulous
+"useless phone, simply deaf.",0,amazon,4,useless phone simply deaf,4,useless phone simply deaf
+I swung in to give them a try but was deeply disappointed.,0,yelp,12,swung give try deeply disappointed,5,swung give try deeply disappointed
+I was left shattered from the experience of watching this 'film' and I took a good two hours to fully recover.  ,0,imdb,21,left shattered experience watching film took good two hours fully recover,11,left shattered experience watching film took good two hours fully recover
+The music in the film is really nice too.  ,1,imdb,9,music film really nice,4,music film really nice
+I'm trying to return it for a refund.,0,amazon,8,im trying return refund,4,im trying return refund
+Great product and price.,1,amazon,4,great product price,3,great product price
+"for 40 bucks a head, i really expect better food.",0,yelp,10,40 bucks head really expect better food,7,40 bucks head really expect better food
+"The characters are interesting and you want to find out more about them the longer the movie goes on, and I think people will be surprised by who does and doesn't make it.  ",1,imdb,33,characters interesting want find longer movie goes think people surprised doesnt make,12,characters interesting want find longer movie goes think people surprised doesnt make
+Not good for the money.,0,yelp,5,good money,2,good money
+Excellent performance.  ,1,imdb,2,excellent performance,2,excellent performance
+"I saw ""Mirrormask"" last night and it was an unsatisfactory experience.  ",0,imdb,11,saw mirrormask last night unsatisfactory experience,6,saw mirrormask last night unsatisfactory experience
+Disappointed with battery.,0,amazon,3,disappointed battery,2,disappointed battery
+The best scene in the movie was when Gerardo is trying to find a song that keeps running through his head.  ,1,imdb,21,best scene movie gerardo trying find song keeps running head,10,best scene movie gerardo trying find song keeps running head
+"First of all, it doesn't wear well.",0,amazon,7,first doesnt wear well,4,first doesnt wear well
+It came free with a DVD player I bought but I still turned the thing off halfway through because I was embarrassed for Howell.  ,0,imdb,24,came free dvd player bought still turned thing halfway embarrassed howell,11,came free dvd player bought still turned thing halfway embarrassed howell
+Horrible phone.,0,amazon,2,horrible phone,2,horrible phone
+"The handsfree part works fine, but then the car tries to download the address book, and the Treo reboots.Overall, I still rate this device high.",1,amazon,25,handsfree part works fine car tries download address book treo rebootsoverall still rate device high,15,handsfree part works fine car tries download address book treo rebootsoverall still rate device high
+I wouldn't return.,0,yelp,3,wouldnt return,2,wouldnt return
+This is truly an art movie--it actually has a lot of art in it.  ,1,imdb,14,truly art movieit actually lot art,6,truly art movieit actually lot art
+This is such a fun and funny movie.  ,1,imdb,8,fun funny movie,3,fun funny movie
+worthless product.,0,amazon,2,worthless product,2,worthless product
+"Although I very much liked the look and sound of this place, the actual experience was a bit disappointing.",0,yelp,19,although much liked look sound place actual experience bit disappointing,10,although much liked look sound place actual experience bit disappointing
+Fantastic buy and will get again for whatever my next phone is,1,amazon,12,fantastic buy get whatever next phone,6,fantastic buy get whatever next phone
+"The guys all had steaks, and our steak loving son who has had steak at the best and worst places said it was the best steak he's ever eaten.",1,yelp,29,guys steaks steak loving son steak best worst places said best steak hes ever eaten,15,guys steaks steak loving son steak best worst places said best steak hes ever eaten
+The Greek dressing was very creamy and flavorful.,1,yelp,8,greek dressing creamy flavorful,4,greek dressing creamy flavorful
+"All in all, I'm quite satisfied with this purchase.",1,amazon,9,im quite satisfied purchase,4,im quite satisfied purchase
+I really enjoyed eating here.,1,yelp,5,really enjoyed eating,3,really enjoyed eating
+For readers who have already seen one of Miyazaki's films: he is still in top form and made another worthwhile experience.  ,1,imdb,21,readers already seen one miyazakis films still top form made another worthwhile experience,13,readers already seen one miyazakis films still top form made another worthwhile experience
+It shouldn't take 30 min for pancakes and eggs.,0,yelp,9,shouldnt take 30 min pancakes eggs,6,shouldnt take 30 min pancakes eggs
+We won't be going back anytime soon!,0,yelp,7,wont going back anytime soon,5,wont going back anytime soon
+Food quality has been horrible.,0,yelp,5,food quality horrible,3,food quality horrible
+People couldnt hear me talk and I had to pull out the earphone and talk on the phone.,0,amazon,18,people couldnt hear talk pull earphone talk phone,8,people couldnt hear talk pull earphone talk phone
+i would advise to not purchase this item it never worked very well.,0,amazon,13,would advise purchase item never worked well,7,would advise purchase item never worked well
+How can anyone in their right mind ask for anything more from a movie than this?  ,1,imdb,16,anyone right mind ask anything movie,6,anyone right mind ask anything movie
+Julian Fellowes has triumphed again.  ,1,imdb,5,julian fellowes triumphed,3,julian fellowes triumphed
+I think not again,0,yelp,4,think,1,think
+"If this premise sound stupid, that's because it is.  ",0,imdb,9,premise sound stupid thats,4,premise sound stupid thats
+It's a shame to see good actors like Thomerson and James make a living in a mess like this.  ,0,imdb,19,shame see good actors like thomerson james make living mess like,11,shame see good actors like thomerson james make living mess like
+Nice docking station for home or work.,1,amazon,7,nice docking station home work,5,nice docking station home work
+- the food is rich so order accordingly.,1,yelp,8,food rich order accordingly,4,food rich order accordingly
+I was deeply impressed with the character he played.  ,1,imdb,9,deeply impressed character played,4,deeply impressed character played
+"Also, I feel like the chips are bought, not made in house.",0,yelp,12,also feel like chips bought made house,7,also feel like chips bought made house
+"The ""1.2"" mega pixel camera, being a part of a phone, is reasonably good7.",1,amazon,14,12 mega pixel camera part phone reasonably good7,8,12 mega pixel camera part phone reasonably good7
+"Kathy Bates is wonderful in her characters subtle desperation and escapism; a variation on her character in ""At Play In The Fields Of The Lord"".  ",1,imdb,25,kathy bates wonderful characters subtle desperation escapism variation character play fields lord,12,kathy bates wonderful characters subtle desperation escapism variation character play fields lord
+"I know this is not like the other restaurants at all, something is very off here!",0,yelp,16,know like restaurants something,4,know like restaurants something
+Dessert: Panna Cotta was amazing.,1,yelp,5,dessert panna cotta amazing,4,dessert panna cotta amazing
+"The staff is super nice and very quick even with the crazy crowds of the downtown juries, lawyers, and court staff.",1,yelp,21,staff super nice quick even crazy crowds downtown juries lawyers court staff,12,staff super nice quick even crazy crowds downtown juries lawyers court staff
+The only reason to eat here would be to fill up before a night of binge drinking just to get some carbs in your stomach.,0,yelp,25,reason eat would fill night binge drinking get carbs stomach,10,reason eat would fill night binge drinking get carbs stomach
+I am sorry I made this purchase.,0,amazon,7,sorry made purchase,3,sorry made purchase
+Do yourself a favor and stay away from this dish.,0,yelp,10,favor stay away dish,4,favor stay away dish
+It was a great phone.,1,amazon,5,great phone,2,great phone
+"After my phone got to be about a year old, it's been slowly breaking despite much care on my part.",0,amazon,20,phone got year old slowly breaking despite much care part,10,phone got year old slowly breaking despite much care part
+"Needless to say, we will never be back here again.",0,yelp,10,needless say never back,4,needless say never back
+Does Not Work.,0,amazon,3,work,1,work
+"If you want to wait for mediocre food and downright terrible service, then this is the place for you.",0,yelp,19,want wait mediocre food downright terrible service place,8,want wait mediocre food downright terrible service place
+"I'm terribly disappointed that this film would receive so many awards and accolades, especially when there are far more deserving works of film out there.  ",0,imdb,25,im terribly disappointed film would receive many awards accolades especially far deserving works film,14,im terribly disappointed film would receive many awards accolades especially far deserving works film
+"I only used it two days, and it wasn't always easy to hear with.",0,amazon,14,used two days wasnt always easy hear,7,used two days wasnt always easy hear
+And I just love the colors!,1,amazon,6,love colors,2,love colors
+"I also had to taste my Mom's multi-grain pumpkin pancakes with pecan butter and they were amazing, fluffy, and delicious!",1,yelp,20,also taste moms multigrain pumpkin pancakes pecan butter amazing fluffy delicious,11,also taste moms multigrain pumpkin pancakes pecan butter amazing fluffy delicious
+"The new characters weren't all that memorable, and I found myself forgetting who was who.  ",0,imdb,15,new characters werent memorable found forgetting,6,new characters werent memorable found forgetting
+So I basically threw my money out the window for nothing.,0,amazon,11,basically threw money window nothing,5,basically threw money window nothing
+"I find wasting food to be despicable, but this just wasn't food.",0,yelp,12,find wasting food despicable wasnt food,6,find wasting food despicable wasnt food
+Very pleased with this headset.,1,amazon,5,pleased headset,2,pleased headset
+"Unfortunately, it only set us up for disapppointment with our entrees.",0,yelp,11,unfortunately set us disapppointment entrees,5,unfortunately set us disapppointment entrees
+The story unfolds in 18th century Jutland and the use of period music played on period instruments is just one more fine touch.  ,1,imdb,23,story unfolds 18th century jutland use period music played period instruments one fine touch,14,story unfolds 18th century jutland use period music played period instruments one fine touch
+Ambience is perfect.,1,yelp,3,ambience perfect,2,ambience perfect
+One of the most disappointing aspects is the lack of notable gore.  ,0,imdb,12,one disappointing aspects lack notable gore,6,one disappointing aspects lack notable gore
+"There is, however, some pretty good acting (at least, for this type of film).  ",1,imdb,14,however pretty good acting least type film,7,however pretty good acting least type film
+Service was excellent and prices are pretty reasonable considering this is Vegas and located inside the Crystals shopping mall by Aria.,1,yelp,21,service excellent prices pretty reasonable considering vegas located inside crystals shopping mall aria,13,service excellent prices pretty reasonable considering vegas located inside crystals shopping mall aria
+The food was terrible.,0,yelp,4,food terrible,2,food terrible
+"As for the service, I thought it was good.",1,yelp,9,service thought good,3,service thought good
+Kris Kristoffersen is good in this movie and really makes a difference.  ,1,imdb,12,kris kristoffersen good movie really makes difference,7,kris kristoffersen good movie really makes difference
+I love this device.,1,amazon,4,love device,2,love device
+Battery is terrible.,0,amazon,3,battery terrible,2,battery terrible
+(The bathroom is just next door and very nice.),1,yelp,9,bathroom next door nice,4,bathroom next door nice
+I rather enjoyed it.  ,1,imdb,4,rather enjoyed,2,rather enjoyed
+Yet Plantronincs continues to use the same flawed charger design.,0,amazon,10,yet plantronincs continues use flawed charger design,7,yet plantronincs continues use flawed charger design
+The jalapeno bacon is soooo good.,1,yelp,6,jalapeno bacon soooo good,4,jalapeno bacon soooo good
+I am glad I purchased it.,1,amazon,6,glad purchased,2,glad purchased
+The accompanied software is almost brilliant.,1,amazon,6,accompanied software almost brilliant,4,accompanied software almost brilliant
+The good cinematography also makes her and Monica Bellucci look very beautiful.  ,1,imdb,12,good cinematography also makes monica bellucci look beautiful,8,good cinematography also makes monica bellucci look beautiful
+If someone orders two tacos don't' you think it may be part of customer service to ask if it is combo or ala cart?,0,yelp,24,someone orders two tacos dont think may part customer service ask combo ala cart,14,someone orders two tacos dont think may part customer service ask combo ala cart
+The desserts were a bit strange.,0,yelp,6,desserts bit strange,3,desserts bit strange
+Now we were chosen to be tortured with this disgusting piece of blatant American propaganda.  ,0,imdb,15,chosen tortured disgusting piece blatant american propaganda,7,chosen tortured disgusting piece blatant american propaganda
+"I was sitting in my vehicle, with the cradle on my belt, and the headset lost signal.",0,amazon,17,sitting vehicle cradle belt headset lost signal,7,sitting vehicle cradle belt headset lost signal
+"Of all the dishes, the salmon was the best, but all were great.",1,yelp,13,dishes salmon best great,4,dishes salmon best great
+Very unreliable service from T-mobile !,0,amazon,6,unreliable service tmobile,3,unreliable service tmobile
+Nevertheless yet another wonderful film from the great master's stable.  ,1,imdb,10,nevertheless yet another wonderful film great masters stable,8,nevertheless yet another wonderful film great masters stable
+The picture resolution is far below what other comparably-priced phones are offering today.,0,amazon,13,picture resolution far comparablypriced phones offering today,7,picture resolution far comparablypriced phones offering today
+""" With great sound effects, and impressive special effects, I can't recommend this movie enough.  ",1,imdb,15,great sound effects impressive special effects cant recommend movie enough,10,great sound effects impressive special effects cant recommend movie enough
+"On three different occasions I asked for well done or medium well, and all three times I got the bloodiest piece of meat on my plate.",0,yelp,26,three different occasions asked well done medium well three times got bloodiest piece meat plate,15,three different occasions asked well done medium well three times got bloodiest piece meat plate
+"The deal included 5 tastings and 2 drinks, and Jeff went above and beyond what we expected.",1,yelp,17,deal included 5 tastings 2 drinks jeff went beyond expected,10,deal included 5 tastings 2 drinks jeff went beyond expected
+I don't think I've ever gone to a movie and disliked it as much.  ,0,imdb,14,dont think ive ever gone movie disliked much,8,dont think ive ever gone movie disliked much
+"You get extra minutes so that you can carry out the call and not get cut off.""",1,amazon,17,get extra minutes carry call get cut,7,get extra minutes carry call get cut
+It failed to convey the broad sweep of landscapes that were a great part of the original.  ,0,imdb,17,failed convey broad sweep landscapes great part original,8,failed convey broad sweep landscapes great part original
+will definitely be back!,1,yelp,4,definitely back,2,definitely back
+Best breakfast buffet!!!,1,yelp,3,best breakfast buffet,3,best breakfast buffet
+Tied to charger for conversations lasting more than 45 minutes.MAJOR PROBLEMS!!,0,amazon,11,tied charger conversations lasting 45 minutesmajor problems,7,tied charger conversations lasting 45 minutesmajor problems
+"At any rate this film stinks, its not funny, and Fulci should have stayed with giallo and supernatural zombie movies.  ",0,imdb,20,rate film stinks funny fulci stayed giallo supernatural zombie movies,10,rate film stinks funny fulci stayed giallo supernatural zombie movies
+"Another note about this phone's appearance is that it really looks rather bland, especially in the all black model.",0,amazon,19,another note phones appearance really looks rather bland especially black model,11,another note phones appearance really looks rather bland especially black model
+"Excellent sound, battery life and inconspicuous to boot!.",1,amazon,8,excellent sound battery life inconspicuous boot,6,excellent sound battery life inconspicuous boot
+Trumbull on I LOVE LUCY).  ,1,imdb,5,trumbull love lucy,3,trumbull love lucy
+The poor actors.  ,0,imdb,3,poor actors,2,poor actors
+I had to wait over 30 minutes to get my drink and longer to get 2 arepas.,0,yelp,17,wait 30 minutes get drink longer get 2 arepas,9,wait 30 minutes get drink longer get 2 arepas
+Thanks again to Amazon for having the things I need for a good price!,1,amazon,14,thanks amazon things need good price,6,thanks amazon things need good price
+The restaurant is very clean and has a family restaurant feel to it.,1,yelp,13,restaurant clean family restaurant feel,5,restaurant clean family restaurant feel
+I purcashed this for the car charger and it does not work.,0,amazon,12,purcashed car charger work,4,purcashed car charger work
+"Plus, with the movie's rather modest budget and fast running time, it does an amazing job!  ",1,imdb,16,plus movies rather modest budget fast running time amazing job,10,plus movies rather modest budget fast running time amazing job
+I love the Scream movies and all horror movies and this one ranks way up there.  ,1,imdb,16,love scream movies horror movies one ranks way,8,love scream movies horror movies one ranks way
+By this time our side of the restaurant was almost empty so there was no excuse.,0,yelp,16,time side restaurant almost empty excuse,6,time side restaurant almost empty excuse
+"As many people complained, I found this headset's microphone was very weak.",0,amazon,12,many people complained found headsets microphone weak,7,many people complained found headsets microphone weak
+"I had always known that Errol Flynn was a brilliant actor as he was my dads favourite actor, and I grew up watching his films as a child.  ",1,imdb,28,always known errol flynn brilliant actor dads favourite actor grew watching films child,13,always known errol flynn brilliant actor dads favourite actor grew watching films child
+"But whatever it was that cost them so much, it didn't translate to quality, that's for sure.  ",0,imdb,17,whatever cost much didnt translate quality thats sure,8,whatever cost much didnt translate quality thats sure
+Nice solid keyboard.,1,amazon,3,nice solid keyboard,3,nice solid keyboard
+I seriously cannot believe that the owner has so many unexperienced employees that all are running around like chickens with their heads cut off.,0,yelp,24,seriously cannot believe owner many unexperienced employees running around like chickens heads cut,13,seriously cannot believe owner many unexperienced employees running around like chickens heads cut
+No one at the table thought the food was above average or worth the wait that we had for it.,0,yelp,20,one table thought food average worth wait,7,one table thought food average worth wait
+This allows the possibility of double booking for the same date and time after the first.,0,amazon,16,allows possibility double booking date time first,7,allows possibility double booking date time first
+"Victor McLaglen was even bad, and Brian DonLevy was almost unrecognizable.  ",0,imdb,11,victor mclaglen even bad brian donlevy almost unrecognizable,8,victor mclaglen even bad brian donlevy almost unrecognizable
+Brilliant!  ,1,imdb,1,brilliant,1,brilliant
+"The chicken dishes are OK, the beef is like shoe leather.",0,yelp,11,chicken dishes ok beef like shoe leather,7,chicken dishes ok beef like shoe leather
+Adapter does not provide enough charging current.,0,amazon,7,adapter provide enough charging current,5,adapter provide enough charging current
+Editing: The editing of this film was phenomenal in my opinion.  ,1,imdb,11,editing editing film phenomenal opinion,5,editing editing film phenomenal opinion
+We'll never go again.,0,yelp,4,well never go,3,well never go
+Buttons are too small.,0,amazon,4,buttons small,2,buttons small
+They keep getting better and better (this is my third one and I've had numerous Palms too).,1,amazon,17,keep getting better better third one ive numerous palms,9,keep getting better better third one ive numerous palms
+"It is light, has plenty of battery capacity, and is very confortable to wear for somewhat extended periods of time.",1,amazon,20,light plenty battery capacity confortable wear somewhat extended periods time,10,light plenty battery capacity confortable wear somewhat extended periods time
+You won't forget this movie!  ,1,imdb,5,wont forget movie,3,wont forget movie
+Appetite instantly gone.,0,yelp,3,appetite instantly gone,3,appetite instantly gone
+"Garbo, who showed right off the bat that her talents could carry over from the silent era (I wanted to see some of her silent work, but Netflix doesn't seem to be stocking them.  ",1,imdb,34,garbo showed right bat talents could carry silent era wanted see silent work netflix doesnt seem stocking,17,garbo showed right bat talents could carry silent era wanted see silent work netflix doesnt seem stocking
+Ordered burger rare came in we'll done.,0,yelp,7,ordered burger rare came well done,6,ordered burger rare came well done
+"Hackneyed writing, certainly, but made even worse by the bad directing.  ",0,imdb,11,hackneyed writing certainly made even worse bad directing,8,hackneyed writing certainly made even worse bad directing
+It looks very nice.,1,amazon,4,looks nice,2,looks nice
+To call this movie a drama is ridiculous!  ,0,imdb,8,call movie drama ridiculous,4,call movie drama ridiculous
+"How this piece of trash was ever released is beyond me: the acting, the story, the characters, the supposedly special effects, etc...it's ALL wrong.  ",0,imdb,24,piece trash ever released beyond acting story characters supposedly special effects etcits wrong,13,piece trash ever released beyond acting story characters supposedly special effects etcits wrong
+The feel of the dining room was more college cooking course than high class dining and the service was slow at best.,0,yelp,22,feel dining room college cooking course high class dining service slow best,12,feel dining room college cooking course high class dining service slow best
+OMG I felt like I had never eaten Thai food until this dish.,1,yelp,13,omg felt like never eaten thai food dish,8,omg felt like never eaten thai food dish
+The keyboard is a nice compromise between a full QWERTY and the basic cell phone number keypad.,1,amazon,17,keyboard nice compromise full qwerty basic cell phone number keypad,10,keyboard nice compromise full qwerty basic cell phone number keypad
+The secondary plot line is incomprehensible and its relation to the primary plot line is mystifying.  ,0,imdb,16,secondary plot line incomprehensible relation primary plot line mystifying,9,secondary plot line incomprehensible relation primary plot line mystifying
+This place is great!!!!!!!!!!!!!!,1,yelp,4,place great,2,place great
+Makes it easier to keep up with my bluetooth when I'm not wearing it.,0,amazon,14,makes easier keep bluetooth im wearing,6,makes easier keep bluetooth im wearing
+"I have eaten here multiple times, and each time the food was delicious.",1,yelp,13,eaten multiple times time food delicious,6,eaten multiple times time food delicious
+Great for the jawbone.,1,amazon,4,great jawbone,2,great jawbone
+The mic is great.,1,amazon,4,mic great,2,mic great
+I ordered this for sony Ericsson W810i but I think it only worked once (thats when I first used it).,0,amazon,20,ordered sony ericsson w810i think worked thats first used,9,ordered sony ericsson w810i think worked thats first used
+I had absolutely no problem with this headset linking to my 8530 Blackberry Curve!,1,amazon,14,absolutely problem headset linking 8530 blackberry curve,7,absolutely problem headset linking 8530 blackberry curve
+I didn't realize how wonderful the short really is until the last two scenes.  ,1,imdb,14,didnt realize wonderful short really last two scenes,8,didnt realize wonderful short really last two scenes
+No actress has been worse used that June Allison in this movie.  ,0,imdb,12,actress worse used june allison movie,6,actress worse used june allison movie
+It fits my ear well and is comfortable on.,1,amazon,9,fits ear well comfortable,4,fits ear well comfortable
+You'd have to have the IQ of particularly stupid mollusk not to see that one coming.  ,0,imdb,16,youd iq particularly stupid mollusk see one coming,8,youd iq particularly stupid mollusk see one coming
+This place is disgusting!,0,yelp,4,place disgusting,2,place disgusting
+I love the ringtones because they are so upbeat!,1,amazon,9,love ringtones upbeat,3,love ringtones upbeat
+Do Not Buy for D807...wrongly advertised for D807.,0,amazon,8,buy d807wrongly advertised d807,4,buy d807wrongly advertised d807
+The pizza selections are good.,1,yelp,5,pizza selections good,3,pizza selections good
+"It's a sad movie, but very good.  ",1,imdb,7,sad movie good,3,sad movie good
+All three broke within two months of use.,0,amazon,8,three broke within two months use,6,three broke within two months use
+"Saggy, floppy piece of junk.",0,amazon,5,saggy floppy piece junk,4,saggy floppy piece junk
+Excellent!.,1,amazon,1,excellent,1,excellent
+MANNA FROM HEAVEN is a terrific film that is both predictable and unpredictable at the same time.  ,1,imdb,17,manna heaven terrific film predictable unpredictable time,7,manna heaven terrific film predictable unpredictable time
+My boyfriend and i sat at the bar and had a completely delightful experience.,1,yelp,14,boyfriend sat bar completely delightful experience,6,boyfriend sat bar completely delightful experience
+I great reception all the time.,1,amazon,6,great reception time,3,great reception time
+The case is a flimsy piece of plastic and has no front or side protection whatsoever.,0,amazon,16,case flimsy piece plastic front side protection whatsoever,8,case flimsy piece plastic front side protection whatsoever
+"The chips that came out were dripping with grease, and mostly not edible.",0,yelp,13,chips came dripping grease mostly edible,6,chips came dripping grease mostly edible
+Graphics is far from the best part of the game.  ,0,imdb,10,graphics far best part game,5,graphics far best part game
+A piece of cinematic garbage captured on celluloid.  ,0,imdb,8,piece cinematic garbage captured celluloid,5,piece cinematic garbage captured celluloid
+"The calls drop, the phone comes on and off at will, the screen goes black and the worst of all it stops ringing intermittently.",0,amazon,24,calls drop phone comes screen goes black worst stops ringing intermittently,11,calls drop phone comes screen goes black worst stops ringing intermittently
+"I hate to disagree with my fellow Yelpers, but my husband and I were so disappointed with this place.",0,yelp,19,hate disagree fellow yelpers husband disappointed place,7,hate disagree fellow yelpers husband disappointed place
+It is a joy to use.,1,amazon,6,joy use,2,joy use
+Disappointment.. I hate anything that goes in my ear.,0,amazon,9,disappointment hate anything goes ear,5,disappointment hate anything goes ear
+Left very frustrated.,0,yelp,3,left frustrated,2,left frustrated
+Authentic leather with nice shine and comfort .I recommend you this case !!,1,amazon,13,authentic leather nice shine comfort recommend case,7,authentic leather nice shine comfort recommend case
+clipping this to your belt will deffinitely make you feel like 50 cent's up-and-coming.,1,amazon,14,clipping belt deffinitely make feel like 50 cents upandcoming,9,clipping belt deffinitely make feel like 50 cents upandcoming
+I'm still trying to get over how bad it was.  ,0,imdb,10,im still trying get bad,5,im still trying get bad
+If you haven't gone here GO NOW!,1,yelp,7,havent gone go,3,havent gone go
+The food is very good for your typical bar food.,1,yelp,10,food good typical bar food,5,food good typical bar food
+"Characters are one-dimensional, even the good guys and especially the bad guys.  ",0,imdb,12,characters onedimensional even good guys especially bad guys,8,characters onedimensional even good guys especially bad guys
+I used to talk on it for 1 - 1 1/2 hours and the battery would be literally drained and dying.,0,amazon,21,used talk 1 1 12 hours battery would literally drained dying,11,used talk 1 1 12 hours battery would literally drained dying
+"first of all, there are enough racial stereotypes and racial jokes to offend everyone.  ",0,imdb,14,first enough racial stereotypes racial jokes offend everyone,8,first enough racial stereotypes racial jokes offend everyone
+The waitresses are very friendly.,1,yelp,5,waitresses friendly,2,waitresses friendly
+"Friend's pasta -- also bad, he barely touched it.",0,yelp,9,friends pasta also bad barely touched,6,friends pasta also bad barely touched
+"Helen Baxendale is a very credible lady Macbeth who can be very cheerfull at times and sometimes she just looks like a naughty girl, but deadly in her taste for blood and evil.  ",1,imdb,33,helen baxendale credible lady macbeth cheerfull times sometimes looks like naughty girl deadly taste blood evil,16,helen baxendale credible lady macbeth cheerfull times sometimes looks like naughty girl deadly taste blood evil
+The best place to go for a tasty bowl of Pho!,1,yelp,11,best place go tasty bowl pho,6,best place go tasty bowl pho
+"Unfortunately, inexperience of direction meant that scene after scene passed with little in the way of dramatic tension or conflict.  ",0,imdb,20,unfortunately inexperience direction meant scene scene passed little way dramatic tension conflict,12,unfortunately inexperience direction meant scene scene passed little way dramatic tension conflict
+The battery runs down quickly.,0,amazon,5,battery runs quickly,3,battery runs quickly
+"To my disbelief, each dish qualified as the worst version of these foods I have ever tasted.",0,yelp,17,disbelief dish qualified worst version foods ever tasted,8,disbelief dish qualified worst version foods ever tasted
+What happened next was pretty....off putting.,0,yelp,6,happened next prettyoff putting,4,happened next prettyoff putting
+(very serious spoilers) this movie was a huge disappointment.  ,0,imdb,9,serious spoilers movie huge disappointment,5,serious spoilers movie huge disappointment
+I didn't think that the instructions provided were helpful to me.,0,amazon,11,didnt think instructions provided helpful,5,didnt think instructions provided helpful
+"I love the camera, it's really pretty good quality.",1,amazon,9,love camera really pretty good quality,6,love camera really pretty good quality
+"If you hate earbugs, avoid this phone by all means.",0,amazon,10,hate earbugs avoid phone means,5,hate earbugs avoid phone means
+"I found this move beautiful, enjoyable, and uplifting.  ",1,imdb,8,found move beautiful enjoyable uplifting,5,found move beautiful enjoyable uplifting
+"I think the most wonderful parts (literally, full of ""wonder"") are the excerpts from his works.  ",1,imdb,16,think wonderful parts literally full wonder excerpts works,8,think wonderful parts literally full wonder excerpts works
+This is a beautiful phone.,1,amazon,5,beautiful phone,2,beautiful phone
+VERY funny!  ,1,imdb,2,funny,1,funny
+Just spicy enough.. Perfect actually.,1,yelp,5,spicy enough perfect actually,4,spicy enough perfect actually
+Each day of the week they have a different deal and it's all so delicious!,1,yelp,15,day week different deal delicious,5,day week different deal delicious
+It was probably dirt.,0,yelp,4,probably dirt,2,probably dirt
+They were golden-crispy and delicious.,1,yelp,5,goldencrispy delicious,2,goldencrispy delicious
+Internet is excrutiatingly slow.,0,amazon,4,internet excrutiatingly slow,3,internet excrutiatingly slow
+"jabra ear gels ""R"" the best!.",1,amazon,6,jabra ear gels r best,5,jabra ear gels r best
+"Not only will it drain your player, but may also potentially fry it.",0,amazon,13,drain player may also potentially fry,6,drain player may also potentially fry
+This place deserves no stars.,0,yelp,5,place deserves stars,3,place deserves stars
+"I go to far too many places and I've never seen any restaurant that serves a 1 egg breakfast, especially for $4.00.",0,yelp,22,go far many places ive never seen restaurant serves 1 egg breakfast especially 400,14,go far many places ive never seen restaurant serves 1 egg breakfast especially 400
+The Macarons here are insanely good.,1,yelp,6,macarons insanely good,3,macarons insanely good
+The food was very good.,1,yelp,5,food good,2,food good
+The noise shield is incrediable.,1,amazon,5,noise shield incrediable,3,noise shield incrediable
+"Best Buffet in town, for the price you cannot beat it.",1,yelp,11,best buffet town price cannot beat,6,best buffet town price cannot beat
+The steaks are all well trimmed and also perfectly cooked.,1,yelp,10,steaks well trimmed also perfectly cooked,6,steaks well trimmed also perfectly cooked
+Better Than New.,1,amazon,3,better new,2,better new
+Oh and I forgot to also mention the weird color effect it has on your phone.,0,amazon,16,oh forgot also mention weird color effect phone,8,oh forgot also mention weird color effect phone
+It is worth the drive.,1,yelp,5,worth drive,2,worth drive
+The menu had so much good stuff on it i could not decide!,1,yelp,13,menu much good stuff could decide,6,menu much good stuff could decide
+They could be used as exemplars for any set designer.  ,1,imdb,10,could used exemplars set designer,5,could used exemplars set designer
+"Fits comfortably, came with three sizes of earbud tips.",1,amazon,9,fits comfortably came three sizes earbud tips,7,fits comfortably came three sizes earbud tips
+Nice ambiance.,1,yelp,2,nice ambiance,2,nice ambiance
+"If there was ever an indication of a writer and a director's ability to meld two highly volatile temperaments into a seamless union of creativity, then this is it!  ",1,imdb,29,ever indication writer directors ability meld two highly volatile temperaments seamless union creativity,13,ever indication writer directors ability meld two highly volatile temperaments seamless union creativity
+The only consistent thread holding the series together were the amazing performances of Leni Parker and Anita LaSelva as the two Taelons in quiet idealogical conflict.  ,0,imdb,26,consistent thread holding series together amazing performances leni parker anita laselva two taelons quiet idealogical conflict,16,consistent thread holding series together amazing performances leni parker anita laselva two taelons quiet idealogical conflict
+"I just cant explain this movie more than romantic,charming,hilarious,and adorable.The junkyard scenes are funny,all the junkyard dogs have something special.Too funny i laughed,kids will LOVE it.Buy it when it comes out,it has new features!  ",1,imdb,34,cant explain movie romanticcharminghilariousand adorablethe junkyard scenes funnyall junkyard dogs something specialtoo funny laughedkids love itbuy comes outit new features,20,cant explain movie romanticcharminghilariousand adorablethe junkyard scenes funnyall junkyard dogs something specialtoo funny laughedkids love itbuy comes outit new features
+Waited 2 hours & never got either of our pizzas as many other around us who came in later did!,0,yelp,20,waited 2 hours never got either pizzas many around us came later,12,waited 2 hours never got either pizzas many around us came later
+Linked to my phone without effort.,1,amazon,6,linked phone without effort,4,linked phone without effort
+Best of luck to the rude and non-customer service focused new management.,0,yelp,12,best luck rude noncustomer service focused new management,8,best luck rude noncustomer service focused new management
+But what really made it unwatchable was the direction.  ,0,imdb,9,really made unwatchable direction,4,really made unwatchable direction
+It was a very superficial movie and it gave me the feeling that I was watching play rather than a film.  ,0,imdb,21,superficial movie gave feeling watching play rather film,8,superficial movie gave feeling watching play rather film
+Don't bother coming here.,0,yelp,4,dont bother coming,3,dont bother coming
+I even dropped this phone into a stream and it was submerged for 15 seconds and it still works great!,1,amazon,20,even dropped phone stream submerged 15 seconds still works great,10,even dropped phone stream submerged 15 seconds still works great
+I usually don't like headbands but this one is very lightweight & doesn't mess up my hair.,1,amazon,17,usually dont like headbands one lightweight doesnt mess hair,9,usually dont like headbands one lightweight doesnt mess hair
+"During several different 2 minute calls, I experienced 5 drops and it was in an area that had 5 bars.",0,amazon,20,several different 2 minute calls experienced 5 drops area 5 bars,11,several different 2 minute calls experienced 5 drops area 5 bars
+Owner's are really great people.!,1,yelp,5,owners really great people,4,owners really great people
+Special thanks to Dylan T. for the recommendation on what to order :) All yummy for my tummy.,1,yelp,18,special thanks dylan recommendation order yummy tummy,7,special thanks dylan recommendation order yummy tummy
+The Ngage is still lacking in earbuds.,0,amazon,7,ngage still lacking earbuds,4,ngage still lacking earbuds
+But this understated film leaves a lasting impression.  ,1,imdb,8,understated film leaves lasting impression,5,understated film leaves lasting impression
+But the duet between the astronaut and his doctor at the beginning of the movie is a perfect exchange if one considers that this movie was made well into the Cold War and the astronaut's biggest fear is that he has crashed in the USSR.  ,1,imdb,45,duet astronaut doctor beginning movie perfect exchange one considers movie made well cold war astronauts biggest fear crashed ussr,19,duet astronaut doctor beginning movie perfect exchange one considers movie made well cold war astronauts biggest fear crashed ussr
+"I had heard good things about this place, but it exceeding every hope I could have dreamed of.",1,yelp,18,heard good things place exceeding every hope could dreamed,9,heard good things place exceeding every hope could dreamed
+The plot was the same as pretty much every other cheap horror.  ,0,imdb,12,plot pretty much every cheap horror,6,plot pretty much every cheap horror
+"Perhaps I caught them on an off night judging by the other reviews, but I'm not inspired to go back.",0,yelp,20,perhaps caught night judging reviews im inspired go back,9,perhaps caught night judging reviews im inspired go back
+I think that it is a must see older John Wayne film.  ,1,imdb,12,think must see older john wayne film,7,think must see older john wayne film
+Duris has a wholesome appearance and gives a fine performance.  ,1,imdb,10,duris wholesome appearance gives fine performance,6,duris wholesome appearance gives fine performance
+"(My mother and brother had to do this)When I saw Robert Ryan portraying this type of man, it was a very good imitation of this type of individual, and I was impressed.  ",1,imdb,32,mother brother thiswhen saw robert ryan portraying type man good imitation type individual impressed,14,mother brother thiswhen saw robert ryan portraying type man good imitation type individual impressed
+One of the few places in Phoenix that I would definately go back to again .,1,yelp,16,one places phoenix would definately go back,7,one places phoenix would definately go back
+"Then I watched it again two Sundays ago (March 20th, 2005) and I began to really enjoy it and this time I taped the entire thing.  ",1,imdb,26,watched two sundays ago march 20th 2005 began really enjoy time taped entire thing,14,watched two sundays ago march 20th 2005 began really enjoy time taped entire thing
+I can't wait to go back.,1,yelp,6,cant wait go back,4,cant wait go back
+Service sucks.,0,yelp,2,service sucks,2,service sucks
+Highly recommended.,1,yelp,2,highly recommended,2,highly recommended
+I did not expect this to be so good!,1,yelp,9,expect good,2,expect good
+This is a great deal.,1,amazon,5,great deal,2,great deal
+There are the usual Hitchcock logic flaws.  ,0,imdb,7,usual hitchcock logic flaws,4,usual hitchcock logic flaws
+The death row scenes were entirely unmoving.  ,0,imdb,7,death row scenes entirely unmoving,5,death row scenes entirely unmoving
+Disappointed!.,0,amazon,1,disappointed,1,disappointed
+Works for me.,1,amazon,3,works,1,works
+"The sound quality for the device is unacceptable.Unless you are in a really quiet area, you almost hear nothing.",0,amazon,19,sound quality device unacceptableunless really quiet area almost hear nothing,10,sound quality device unacceptableunless really quiet area almost hear nothing
+Waitress was sweet and funny.,1,yelp,5,waitress sweet funny,3,waitress sweet funny
+THey are so cool!,1,amazon,4,cool,1,cool
+"Considering the relations off screen between Taylor and Stanwyck, it was surprising how little chemistry there was on screen between the two of them.  ",0,imdb,24,considering relations screen taylor stanwyck surprising little chemistry screen two,10,considering relations screen taylor stanwyck surprising little chemistry screen two
+I can take a little bad service but the food sucks.,0,yelp,11,take little bad service food sucks,6,take little bad service food sucks
+"The owner used to work at Nobu, so this place is really similar for half the price.",1,yelp,17,owner used work nobu place really similar half price,9,owner used work nobu place really similar half price
+[...] down the drain because of a weak snap!,0,amazon,9,drain weak snap,3,drain weak snap
+"It is wonderful and inspiring to watch, and I hope that it gets released again on to video or DVD.  ",1,imdb,20,wonderful inspiring watch hope gets released video dvd,8,wonderful inspiring watch hope gets released video dvd
+I've owned this phone for 7 months now and can say that it's the best mobile phone I've had.,1,amazon,19,ive owned phone 7 months say best mobile phone ive,10,ive owned phone 7 months say best mobile phone ive
+The live music on Fridays totally blows.,0,yelp,7,live music fridays totally blows,5,live music fridays totally blows
+"He can bore you to pieces, and kill the momentum of a movie, quicker than anyone else.  ",0,imdb,17,bore pieces kill momentum movie quicker anyone else,8,bore pieces kill momentum movie quicker anyone else
+The Burrittos Blah!,0,yelp,3,burrittos blah,2,burrittos blah
+"The color is even prettier than I thought it would be, and the graphics are incredibly sharp.",1,amazon,17,color even prettier thought would graphics incredibly sharp,8,color even prettier thought would graphics incredibly sharp
+"There are massive levels, massive unlockable characters... it's just a massive game.  ",1,imdb,12,massive levels massive unlockable characters massive game,7,massive levels massive unlockable characters massive game
+"Good , works fine.",1,amazon,4,good works fine,3,good works fine
+"I really loved the story line and the poler bear was kinda cute.But if anyone has a question about Fort Steele, just ask away:)  ",1,imdb,24,really loved story line poler bear kinda cutebut anyone question fort steele ask away,14,really loved story line poler bear kinda cutebut anyone question fort steele ask away
+"The script is bad, very bad  it contains both cheesiness and unethical joke that you normally see in rated R or NC-17 movie.  ",0,imdb,24,script bad bad  contains cheesiness unethical joke normally see rated r nc17 movie,14,script bad bad  contains cheesiness unethical joke normally see rated r nc17 movie
+The vanilla ice cream was creamy and smooth while the profiterole (choux) pastry was fresh enough.,1,yelp,16,vanilla ice cream creamy smooth profiterole choux pastry fresh enough,10,vanilla ice cream creamy smooth profiterole choux pastry fresh enough
+"All in all an excellent restaurant highlighted by great service, a unique menu, and a beautiful setting.",1,yelp,17,excellent restaurant highlighted great service unique menu beautiful setting,9,excellent restaurant highlighted great service unique menu beautiful setting
+The seasonal fruit was fresh white peach puree.,1,yelp,8,seasonal fruit fresh white peach puree,6,seasonal fruit fresh white peach puree
+"The real killer is the volume, and of course it breaking.",0,amazon,11,real killer volume course breaking,5,real killer volume course breaking
+Good case!.,1,amazon,2,good case,2,good case
+The food is good.,1,yelp,4,food good,2,food good
+Well... Just if you keep thinking how bad it is.  ,0,imdb,10,well keep thinking bad,4,well keep thinking bad
+John Wayne did an incredible job for being so young in the movie industry.  ,1,imdb,14,john wayne incredible job young movie industry,7,john wayne incredible job young movie industry
+The turkey and roast beef were bland.,0,yelp,7,turkey roast beef bland,4,turkey roast beef bland
+Later I found myself lost in the power of the film.  ,1,imdb,11,later found lost power film,5,later found lost power film
+This movie is well-balanced with comedy and drama and I thoroughly enjoyed myself.  ,1,imdb,13,movie wellbalanced comedy drama thoroughly enjoyed,6,movie wellbalanced comedy drama thoroughly enjoyed
+"The acting was bad, the dialogs were extremely shallow and insincere.  ",0,imdb,11,acting bad dialogs extremely shallow insincere,6,acting bad dialogs extremely shallow insincere
+"however, my girl was complain that some time the phone doesn't wake up like normal phone does.",0,amazon,17,however girl complain time phone doesnt wake like normal phone,10,however girl complain time phone doesnt wake like normal phone
+I probably won't be coming back here.,0,yelp,7,probably wont coming back,4,probably wont coming back
+Doesn't Work.,0,amazon,2,doesnt work,2,doesnt work
+The basic premise is wasted since it is sidelined by the inexplicable focus on the documentary crew.  ,0,imdb,17,basic premise wasted since sidelined inexplicable focus documentary crew,9,basic premise wasted since sidelined inexplicable focus documentary crew
+This would not even be good as a made for TV flick.  ,0,imdb,12,would even good made tv flick,6,would even good made tv flick
+"Thus far, have only visited twice and the food was absolutely delicious each time.",1,yelp,14,thus far visited twice food absolutely delicious time,8,thus far visited twice food absolutely delicious time
+The instruction manual is lacking.,0,amazon,5,instruction manual lacking,3,instruction manual lacking
+"Bluetooth does not work, phone locks up, screens just flash up and now it just makes calls randomly while in my pocket locked.",0,amazon,23,bluetooth work phone locks screens flash makes calls randomly pocket locked,11,bluetooth work phone locks screens flash makes calls randomly pocket locked
+"This place is not quality sushi, it is not a quality restaurant.",0,yelp,12,place quality sushi quality restaurant,5,place quality sushi quality restaurant
+They work about 2 weeks then break.,0,amazon,7,work 2 weeks break,4,work 2 weeks break
+"If you don't find it, too bad, as again the unit comes with one earpad only.I would not recommend this to anyone.",0,amazon,22,dont find bad unit comes one earpad onlyi would recommend anyone,11,dont find bad unit comes one earpad onlyi would recommend anyone
+"This hole in the wall has great Mexican street tacos, and friendly staff.",1,yelp,13,hole wall great mexican street tacos friendly staff,8,hole wall great mexican street tacos friendly staff
+I've had this bluetoooth headset for some time now and still not comfortable with the way it fits on the ear.,0,amazon,21,ive bluetoooth headset time still comfortable way fits ear,9,ive bluetoooth headset time still comfortable way fits ear
+there is no real plot.  ,0,imdb,5,real plot,2,real plot
+It was a huge awkward 1.5lb piece of cow that was 3/4ths gristle and fat.,0,yelp,15,huge awkward 15lb piece cow 34ths gristle fat,8,huge awkward 15lb piece cow 34ths gristle fat
+Love this product.,1,amazon,3,love product,2,love product
+I'm using it with an iriver SPINN (with case) and it fits fine.,1,amazon,13,im using iriver spinn case fits fine,7,im using iriver spinn case fits fine
+"The food is delicious and just spicy enough, so be sure to ask for spicier if you prefer it that way.",1,yelp,21,food delicious spicy enough sure ask spicier prefer way,9,food delicious spicy enough sure ask spicier prefer way
+Excellently produced by one of Sci-fi's best producers Scot Vandiver !  ,1,imdb,11,excellently produced one scifis best producers scot vandiver,8,excellently produced one scifis best producers scot vandiver
+His performance is simply genius.  ,1,imdb,5,performance simply genius,3,performance simply genius
+Also the area where my unit broke).- I'm not too fond of the magnetic strap.,0,amazon,15,also area unit broke im fond magnetic strap,8,also area unit broke im fond magnetic strap
+Excellent bluetooth headset.,1,amazon,3,excellent bluetooth headset,3,excellent bluetooth headset
+"The chicken I got was definitely reheated and was only ok, the wedges were cold and soggy.",0,yelp,17,chicken got definitely reheated ok wedges cold soggy,8,chicken got definitely reheated ok wedges cold soggy
+"An interesting premise, and Billy Drago is always good as a dangerous nut-bag (side note: I'd love to see Drago, Stephen McHattie and Lance Hendrikson in a flick together; talk about raging cheekbones!).  ",1,imdb,33,interesting premise billy drago always good dangerous nutbag side note id love see drago stephen mchattie lance hendrikson flick together talk raging cheekbones,23,interesting premise billy drago always good dangerous nutbag side note id love see drago stephen mchattie lance hendrikson flick together talk raging cheekbones
+The bus boy on the other hand was so rude.,0,yelp,10,bus boy hand rude,4,bus boy hand rude
+"It was an inexpensive piece, but I would still have expected better quality.",0,amazon,13,inexpensive piece would still expected better quality,7,inexpensive piece would still expected better quality
+"He was extremely rude and really, there are so many other restaurants I would love to dine at during a weekend in Vegas.",0,yelp,23,extremely rude really many restaurants would love dine weekend vegas,10,extremely rude really many restaurants would love dine weekend vegas
+Unfortunately it did not work.,0,amazon,5,unfortunately work,2,unfortunately work
+Doesn't do the job.,0,amazon,4,doesnt job,2,doesnt job
+It doesn't make you look cool.,0,amazon,6,doesnt make look cool,4,doesnt make look cool
+"It's a mediocre, miserable, hollow, laughable and predictable piece of garbage.  ",0,imdb,11,mediocre miserable hollow laughable predictable piece garbage,7,mediocre miserable hollow laughable predictable piece garbage
+Works like a charm; it work the same as the one I got with the phone.,1,amazon,16,works like charm work one got phone,7,works like charm work one got phone
+Eew... This location needs a complete overhaul.,0,yelp,7,eew location needs complete overhaul,5,eew location needs complete overhaul
+"And, FINALLY, after all that, we get to an ending that would've been great had it been handled by competent people and not Jerry Falwell.  ",0,imdb,25,finally get ending wouldve great handled competent people jerry falwell,10,finally get ending wouldve great handled competent people jerry falwell
+So just beware.,0,amazon,3,beware,1,beware
+The characters were very 'stagey' and the storyline was a lot like a stage farce.  ,0,imdb,15,characters stagey storyline lot like stage farce,7,characters stagey storyline lot like stage farce
+"I loved this movie it was a great portrayal of a family who had it's share of ups and down, but in the end they knew that special love they had for each other.  ",1,imdb,34,loved movie great portrayal family share ups end knew special love,11,loved movie great portrayal family share ups end knew special love
+Everything on the menu is terrific and we were also thrilled that they made amazing accommodations for our vegetarian daughter.,1,yelp,20,everything menu terrific also thrilled made amazing accommodations vegetarian daughter,10,everything menu terrific also thrilled made amazing accommodations vegetarian daughter
+"People who like European films and ""art movies"" will like this movie.  ",1,imdb,12,people like european films art movies like movie,8,people like european films art movies like movie
+"i felt insulted and disrespected, how could you talk and judge another human being like that?",0,yelp,16,felt insulted disrespected could talk judge another human like,9,felt insulted disrespected could talk judge another human like
+"The movie lacks visual interest, drama, expression of feeling, and celebration of the very patriotism that underlines the narrative.  ",0,imdb,19,movie lacks visual interest drama expression feeling celebration patriotism underlines narrative,11,movie lacks visual interest drama expression feeling celebration patriotism underlines narrative
+It defeats the purpose of a bluetooth headset.,0,amazon,8,defeats purpose bluetooth headset,4,defeats purpose bluetooth headset
+"Lifetime does not air it enough, so if anyone knows what store sells it let me know because this is a must-have.  ",1,imdb,22,lifetime air enough anyone knows store sells let know musthave,10,lifetime air enough anyone knows store sells let know musthave
+Utter crap.. Sound quality is TERRIBLE.,0,amazon,6,utter crap sound quality terrible,5,utter crap sound quality terrible
+"1 hour 54 minutes of sheer tedium, melodrama and horrible acting, a mess of a script, and a sinking feeling of GOOD LORD, WHAT WERE THEY THINKING?  ",0,imdb,27,1 hour 54 minutes sheer tedium melodrama horrible acting mess script sinking feeling good lord thinking,16,1 hour 54 minutes sheer tedium melodrama horrible acting mess script sinking feeling good lord thinking
+We won't be returning.,0,yelp,4,wont returning,2,wont returning
+"The characters are fleshed out surprisingly well, particularly Grimes and Blake, and all the actors deliver their sharply scripted lines with just the right amount of deadpan tongue in cheek to make the dialogue both hilarious and realistic.  ",1,imdb,38,characters fleshed surprisingly well particularly grimes blake actors deliver sharply scripted lines right amount deadpan tongue cheek make dialogue hilarious realistic,21,characters fleshed surprisingly well particularly grimes blake actors deliver sharply scripted lines right amount deadpan tongue cheek make dialogue hilarious realistic
+"The writer, Gorman Bechard, undoubtedly did his homework because all references are industry and character-age appropriate.  ",1,imdb,16,writer gorman bechard undoubtedly homework references industry characterage appropriate,9,writer gorman bechard undoubtedly homework references industry characterage appropriate
+"This movie is a solid example of a bad plot and a very, very bad idea all the way.  ",0,imdb,19,movie solid example bad plot bad idea way,8,movie solid example bad plot bad idea way
+"Att is not clear, sound is very distorted and you have to yell when you talk.",0,amazon,16,att clear sound distorted yell talk,6,att clear sound distorted yell talk
+Anne Heche was utterly convincing.  ,1,imdb,5,anne heche utterly convincing,4,anne heche utterly convincing
+Also its slim enough to fit into my alarm clock docking station without removing the case.,1,amazon,16,also slim enough fit alarm clock docking station without removing case,11,also slim enough fit alarm clock docking station without removing case
+"Oh this is such a thing of beauty, this restaurant.",1,yelp,10,oh thing beauty restaurant,4,oh thing beauty restaurant
+Poor Talk Time Performance.,0,amazon,4,poor talk time performance,4,poor talk time performance
+Ironically I mostly find his films a total waste of time to watch.  ,0,imdb,13,ironically mostly find films total waste time watch,8,ironically mostly find films total waste time watch
+It was not good.,0,yelp,4,good,1,good
+Sooooo good!!,1,yelp,2,sooooo good,2,sooooo good
+"Again, no plot at all.  ",0,imdb,5,plot,1,plot
+The speaker is of low quality so as making the ring tones sound very cheap.,0,amazon,15,speaker low quality making ring tones sound cheap,8,speaker low quality making ring tones sound cheap
+"I don't understand how this garbage got on the shelves of the movie store, it's not even a real movie!  ",0,imdb,20,dont understand garbage got shelves movie store even real movie,10,dont understand garbage got shelves movie store even real movie
+"The scenes with the ""oh-so-mature"" neighbour-girl are a misplace.  ",0,imdb,9,scenes ohsomature neighbourgirl misplace,4,scenes ohsomature neighbourgirl misplace
+But the service was beyond bad.,0,yelp,6,service beyond bad,3,service beyond bad
+Great character actors Telly Savalas and Peter Boyle.  ,1,imdb,8,great character actors telly savalas peter boyle,7,great character actors telly savalas peter boyle
+The patio seating was very comfortable.,1,yelp,6,patio seating comfortable,3,patio seating comfortable
+The food was terrible.,0,yelp,4,food terrible,2,food terrible
+The film lacks any real scares or tension & some of the medical terminology used throughout is a bit iffy to say the least & I say that as an insulin dependant diabetic myself.  ,0,imdb,34,film lacks real scares tension medical terminology used throughout bit iffy say least say insulin dependant diabetic,17,film lacks real scares tension medical terminology used throughout bit iffy say least say insulin dependant diabetic
+It really created a unique feeling though.  ,1,imdb,7,really created unique feeling though,5,really created unique feeling though
+Waste of 13 bucks.,0,amazon,4,waste 13 bucks,3,waste 13 bucks
+I love the Pho and the spring rolls oh so yummy you have to try.,1,yelp,15,love pho spring rolls oh yummy try,7,love pho spring rolls oh yummy try
+"One nice thing was that they added gratuity on the bill since our party was larger than 6 or 8, and they didn't expect more tip than that.",1,yelp,28,one nice thing added gratuity bill since party larger 6 8 didnt expect tip,14,one nice thing added gratuity bill since party larger 6 8 didnt expect tip
+"Ray Charles' life provided excellent biographical material for the film, which goes well beyond being just another movie about a musician.  ",1,imdb,21,ray charles life provided excellent biographical material film goes well beyond another movie musician,14,ray charles life provided excellent biographical material film goes well beyond another movie musician
+what a disappointment,0,amazon,3,disappointment,1,disappointment
+A Disappointment.,0,amazon,2,disappointment,1,disappointment
+"To summarize... the food was incredible, nay, transcendant... but nothing brings me joy quite like the memory of the pneumatic condiment dispenser.",1,yelp,22,summarize food incredible nay transcendant nothing brings joy quite like memory pneumatic condiment dispenser,14,summarize food incredible nay transcendant nothing brings joy quite like memory pneumatic condiment dispenser
+"Comfortable fit - you need your headset to be comfortable for at least an hour at a time, if not for an entire day.",1,amazon,24,comfortable fit need headset comfortable least hour time entire day,10,comfortable fit need headset comfortable least hour time entire day
+It will drive you barking mad!  ,0,imdb,6,drive barking mad,3,drive barking mad
+fast service.,1,amazon,2,fast service,2,fast service
+"Took an hour to get our food only 4 tables in restaurant my food was Luke warm, Our sever was running around like he was totally overwhelmed.",0,yelp,27,took hour get food 4 tables restaurant food luke warm sever running around like totally overwhelmed,16,took hour get food 4 tables restaurant food luke warm sever running around like totally overwhelmed
+Food is way overpriced and portions are fucking small.,0,yelp,9,food way overpriced portions fucking small,6,food way overpriced portions fucking small
+"IMDB ratings only go as low 1 for awful, it's time to get some negative numbers in there for cases such as these.  ",0,imdb,23,imdb ratings go low 1 awful time get negative numbers cases,11,imdb ratings go low 1 awful time get negative numbers cases
+This is a great little item.,1,amazon,6,great little item,3,great little item
+The cutouts and buttons are placed perfectly.,1,amazon,7,cutouts buttons placed perfectly,4,cutouts buttons placed perfectly
+"You learn a lot about the real inside emotions of people in this movie, and a lot about the movie business itself.  ",1,imdb,22,learn lot real inside emotions people movie lot movie business,10,learn lot real inside emotions people movie lot movie business
+This was like the final blow!,0,yelp,6,like final blow,3,like final blow
+Blue Ant is easy to use.,1,amazon,6,blue ant easy use,4,blue ant easy use
+Highly recommended A+  ,1,imdb,3,highly recommended,2,highly recommended
+My ribeye steak was cooked perfectly and had great mesquite flavor.,1,yelp,11,ribeye steak cooked perfectly great mesquite flavor,7,ribeye steak cooked perfectly great mesquite flavor
+There is no plot here to keep you going in the first place.  ,0,imdb,13,plot keep going first place,5,plot keep going first place
+dont buy it.,0,amazon,3,dont buy,2,dont buy
+The service was terrible though.,0,yelp,5,service terrible though,3,service terrible though
+How awesome is that.,1,yelp,4,awesome,1,awesome
+The Wind and the Lion is well written and superbly acted.  ,1,imdb,11,wind lion well written superbly acted,6,wind lion well written superbly acted
+And then tragedy struck.,0,yelp,4,tragedy struck,2,tragedy struck
+I bought this to use with my Kindle Fire and absolutely loved it!,1,amazon,13,bought use kindle fire absolutely loved,6,bought use kindle fire absolutely loved
+Definitely worth seeing it's the sort of thought provoking film that forces you to question your own threshold of loneliness.  ,1,imdb,20,definitely worth seeing sort thought provoking film forces question threshold loneliness,11,definitely worth seeing sort thought provoking film forces question threshold loneliness
+The reception through this headset is excellent.,1,amazon,7,reception headset excellent,3,reception headset excellent

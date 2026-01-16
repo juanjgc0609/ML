@@ -1,0 +1,44 @@
+{
+  "best_model": "Baseline_constant",
+  "best_f1_score": 0.6666666666666666,
+  "dataset_info": {
+    "train_size": 2400,
+    "test_size": 600,
+    "train_positive": 1200,
+    "train_negative": 1200,
+    "test_positive": 300,
+    "test_negative": 300,
+    "vocab_size": 4632,
+    "max_sequence_length": 100
+  },
+  "all_models_summary": {
+    "Baseline_most_frequent": {
+      "accuracy": 0.5,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "cohen_kappa": 0.0
+    },
+    "Baseline_stratified": {
+      "accuracy": 0.52,
+      "precision": 0.5208333333333334,
+      "recall": 0.5,
+      "f1_score": 0.5102040816326531,
+      "cohen_kappa": 0.040000000000000036
+    },
+    "Baseline_uniform": {
+      "accuracy": 0.51,
+      "precision": 0.5096153846153846,
+      "recall": 0.53,
+      "f1_score": 0.5196078431372549,
+      "cohen_kappa": 0.020000000000000018
+    },
+    "Baseline_constant": {
+      "accuracy": 0.5,
+      "precision": 0.5,
+      "recall": 1.0,
+      "f1_score": 0.6666666666666666,
+      "cohen_kappa": 0.0
+    }
+  }
+}

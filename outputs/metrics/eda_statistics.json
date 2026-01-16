@@ -1,0 +1,20 @@
+{
+  "original": {
+    "total_samples": 3000,
+    "vocab_size": 8015,
+    "avg_length": 11.831666666666667,
+    "std_length": 7.871128501612008,
+    "total_words": 35495
+  },
+  "preprocessed": {
+    "vocab_size": 5277,
+    "avg_length": 6.200333333333333,
+    "std_length": 4.1697561745928935,
+    "total_words": 18601
+  },
+  "reduction": {
+    "vocab_reduction_%": 34.1609482220836,
+    "words_reduction_%": 47.59543597689816,
+    "length_reduction_%": 47.59543597689816
+  }
+}

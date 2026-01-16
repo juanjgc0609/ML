@@ -1,0 +1,84 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+env/
+ENV/
+turing-sentiment/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Data files (large files should not be committed)
+data/raw/*.txt
+data/raw/sentiment labelled sentences/
+data/processed/*.npy
+data/processed/*.pkl
+*.csv.gz
+
+# Model files (too large for git)
+outputs/saved_models/*.h5
+outputs/saved_models/*.keras
+outputs/saved_models/*.pt
+outputs/saved_models/*.pth
+outputs/saved_models/*.ckpt
+
+# Logs
+logs/*.log
+*.log
+
+# TensorBoard
+logs/tensorboard/
+runs/
+
+# Environment variables
+.env
+.env.local
+
+# Temporary files
+*.tmp
+*.bak
+*.cache
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy.json
